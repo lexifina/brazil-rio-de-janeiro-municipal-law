@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.207, de 18 de maio de 2026 Fica facultado o Poder Executivo Municipal a instituir o Programa Municipal de Pontos Públicos de Hidratação com Água Potável Gratuita, como instrumento de promoção da saúde preventiva, sustentabilidade ambiental e qualificação do espaço urbano, e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
