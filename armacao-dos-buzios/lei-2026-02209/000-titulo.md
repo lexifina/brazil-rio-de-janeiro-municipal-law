@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.209, de 18 de maio de 2026 Dispõe sobre a inclusão de carne de peixe no cardápio da merenda escolar na rede pública de ensino municipal em Armação dos Búzios/RJ, e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
