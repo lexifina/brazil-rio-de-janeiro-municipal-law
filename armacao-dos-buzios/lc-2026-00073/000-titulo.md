@@ -1,0 +1,2 @@
+# Lei Complementar nº 73, de 18 de maio de 2026 Altera o(a) Lei Complementar nº 6, de 10 de setembro de 2002 Acrescenta dispositivos à Lei Complementar nº 6, de 10 de setembro de 2002 (Código de Posturas), para disciplinar o comércio ambulante nas praias do Município de Armação dos Búzios.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
