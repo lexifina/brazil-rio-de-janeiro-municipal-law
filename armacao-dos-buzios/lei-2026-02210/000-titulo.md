@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.210, de 22 de maio de 2026 Dispõe sobre a coleta, o transporte, o tratamento e a destinação dos resíduos sólidos e a disposição final dos rejeitos provenientes dos grandes geradores no Município de Armação dos Búzios e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
