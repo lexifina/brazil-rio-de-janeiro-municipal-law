@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.216, de 26 de junho de 2026 Institui, no âmbito do Município de Armação dos Búzios, o Programa Municipal Casa das Mães Atípicas, destinado ao acolhimento, apoio e fortalecimento das mulheres cuidadoras de pessoas com deficiência ou necessidades especiais, e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
