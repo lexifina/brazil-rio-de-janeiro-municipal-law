@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.220, de 30 de junho de 2026 Cria o Programa de Comunicação e Frequência Escolar Digital no âmbito da educação básica, por meio de identificação tecnologias de automatizada, inclusive reconhecimento facial e inteligência artificial.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
