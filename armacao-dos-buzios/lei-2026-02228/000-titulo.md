@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.228, de 04 de agosto de 2026 Altera o(a) Lei Ordinária nº 770, de 22 de janeiro de 2010 Dispõe sobre a alteração da Lei nº 770, de 22 de janeiro de 2010, que autoriza o Poder Executivo a conceder isenção de Imposto Predial e Territorial Urbano - IPTU, e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
