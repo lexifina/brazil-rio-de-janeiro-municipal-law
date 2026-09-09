@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.239, de 09 de setembro de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 33.499,80 (trinta e três mil, quatrocentos e noventa e nove reais e oitenta centavos), e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
