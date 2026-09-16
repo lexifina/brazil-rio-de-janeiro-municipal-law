@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.238, de 02 de setembro de 2026 Institui o Programa "Enxergando o Futuro" no âmbito do Município de Armação dos Búzios, voltado à identificação precoce, prevenção e encaminhamento para tratamento de problemas de saúde ocular de alunos da rede municipal de ensino, estabelece diretrizes para a gestão intersetorial e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
