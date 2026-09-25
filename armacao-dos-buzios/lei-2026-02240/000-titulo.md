@@ -1,0 +1,2 @@
+# Lei Ordinária nº 2.240, de 14 de setembro de 2026 Institui diretrizes para a Política Municipal de Psicológica tratamento as Assistência pessoas Oncológico em no Município de Armação dos Búzios e dá outras providências.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:
