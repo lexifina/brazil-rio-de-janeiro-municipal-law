@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | --- | --- | --- | --- |
 | Câmara Municipal de Itaguaí, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.itaguai.rj.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Itaguaí, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.itaguai.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Armação dos Búzios, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.armacaodosbuzios.rj.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Armação dos Búzios, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.armacaodosbuzios.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Piraí, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.pirai.rj.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Piraí, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.pirai.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -47,20 +48,28 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `armacao-dos-buzios/lc-2026-00073` | Lei Complementar nº 73, de 18 de maio de 2026 | 1 | 2026-05-20 to 2026-05-20 |
 | `armacao-dos-buzios/lei-2026-02201` | Lei nº 2.201, de 11 de maio de 2026 | 1 | 2026-05-11 to 2026-05-11 |
 | `itaguai/lei-2026-04347` | Lei nº 4.347, de 13 de agosto de 2026 | 1 | 2026-08-27 to 2026-08-27 |
+| `pirai/lei-2026-01962` | Lei nº 1.962, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `pirai/lei-2026-01961` | Lei nº 1.961, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `pirai/lei-2026-01953` | Lei nº 1.953, de 10 de agosto de 2026 | 1 | 2026-08-10 to 2026-08-10 |
+| `pirai/lei-2026-01944` | Lei nº 1.944, de 6 de julho de 2026 | 1 | 2026-07-06 to 2026-07-06 |
+| `pirai/lei-2026-01942` | Lei nº 1.942, de 22 de junho de 2026 | 1 | 2026-06-22 to 2026-06-22 |
+| `pirai/lei-2026-01946` | Lei nº 1.946, de 15 de junho de 2026 | 1 | 2026-06-15 to 2026-06-15 |
+| `pirai/lei-2026-01945` | Lei nº 1.945, de 15 de junho de 2026 | 1 | 2026-06-15 to 2026-06-15 |
+| `pirai/lei-2026-01943` | Lei nº 1.943, de 11 de maio de 2026 | 1 | 2026-05-11 to 2026-05-11 |
 
-The build made 32 commits:
+The build made 40 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 32 | first version of an act |
+| 40 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 32 laws in the record.
-- 64 tags.
+- 40 laws in the record.
+- 80 tags.
 
 ## Dates
 
@@ -72,13 +81,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `10ec34658c4b8692381de8f405f46ae109d6eee47480720d643bb83776118314` (177884 bytes).
+- Corpus: sha256 `0fb3020cd00fabc3be29888b5797c6f78bcebc578bb6da7405d8b9b01a98640d` (212325 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-32 versions of 32 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+40 versions of 40 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 

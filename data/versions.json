@@ -480,6 +480,126 @@
      "sha256": "e79fb91948f5e42e792887b1e4946bf6b3f2de3fce9d75edfc4080b4c7f2a9ba"
     }
    ]
+  },
+  {
+   "slug": "pirai/lei-2026-01962",
+   "unit": "pirai",
+   "short": "Lei 1962/2026",
+   "title": "Lei nº 1.962, de 24 de setembro de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2638",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 4,
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2638/lei_n__1.962.26__acresce_valor_a_subvencao_concedida_a_associacao_recreativa_santa_cecilia_arrozalense__para_o_exercicio_de_2026.pdf",
+     "sha256": "e2b6bb70d2332038f8fdf7e5979b68a9e49111df2f22700edaf9bb52ecd077af"
+    }
+   ]
+  },
+  {
+   "slug": "pirai/lei-2026-01961",
+   "unit": "pirai",
+   "short": "Lei 1961/2026",
+   "title": "Lei nº 1.961, de 24 de setembro de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2637",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 4,
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2637/lei_n__1.961.26__autoriza_o_poder_executivo_a_conceder_auxilio_financeiro_a_associacao_recreativa_santa_cecilia_arrozalense.pdf",
+     "sha256": "cff24f0a649de30818e7f41c3a12cce1b457ad3ed135e99425dbca539445a2e9"
+    }
+   ]
+  },
+  {
+   "slug": "pirai/lei-2026-01953",
+   "unit": "pirai",
+   "short": "Lei 1953/2026",
+   "title": "Lei nº 1.953, de 10 de agosto de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2615",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 9,
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2615/lei_n__1.953.26.pdf",
+     "sha256": "9ecd54bba0b715988eb90415bb73ef6fb339b737d0f686736320d52f64eaad30"
+    }
+   ]
+  },
+  {
+   "slug": "pirai/lei-2026-01944",
+   "unit": "pirai",
+   "short": "Lei 1944/2026",
+   "title": "Lei nº 1.944, de 6 de julho de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2611",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 6,
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2611/l1944.2026.pdf",
+     "sha256": "3353538c66b213309bb28991d9705daae841aae4208572b3449838fc5f108cf5"
+    }
+   ]
+  },
+  {
+   "slug": "pirai/lei-2026-01942",
+   "unit": "pirai",
+   "short": "Lei 1942/2026",
+   "title": "Lei nº 1.942, de 22 de junho de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2609",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 6,
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2609/l1942.2026.pdf",
+     "sha256": "1899da7895d4e11cdd40f13580c66ab321ec264f1d767bb1c2b82c84b1608dd4"
+    }
+   ]
+  },
+  {
+   "slug": "pirai/lei-2026-01946",
+   "unit": "pirai",
+   "short": "Lei 1946/2026",
+   "title": "Lei nº 1.946, de 15 de junho de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2613",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 6,
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2613/l1946.2026.pdf",
+     "sha256": "381db3f96dd03086318b202c32137712aa65ba09037c29e5db87437995490f97"
+    }
+   ]
+  },
+  {
+   "slug": "pirai/lei-2026-01945",
+   "unit": "pirai",
+   "short": "Lei 1945/2026",
+   "title": "Lei nº 1.945, de 15 de junho de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2612",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 11,
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2612/l1945.2026.pdf",
+     "sha256": "4062eb71ca4e87129e07239ada2bcba2a9beaee841c60fc44233ea7ba9977047"
+    }
+   ]
+  },
+  {
+   "slug": "pirai/lei-2026-01943",
+   "unit": "pirai",
+   "short": "Lei 1943/2026",
+   "title": "Lei nº 1.943, de 11 de maio de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2610",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 6,
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2610/l1943.2026.pdf",
+     "sha256": "31e6db71223d328ae4b0246a5b98e62d6fb78aaa4746f4a676272ca0a906591a"
+    }
+   ]
   }
  ]
 }

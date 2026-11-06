@@ -41,6 +41,19 @@
     "itaguai/lei-2026-04347"
    ],
    "sha256": "c33c758381c42b7ec5e1c845fc0be187df2563bdb1432510b7054bff0903eec7"
+  },
+  "pirai--30-leis-001.json": {
+   "acts": [
+    "pirai/lei-2026-01942",
+    "pirai/lei-2026-01943",
+    "pirai/lei-2026-01944",
+    "pirai/lei-2026-01945",
+    "pirai/lei-2026-01946",
+    "pirai/lei-2026-01953",
+    "pirai/lei-2026-01961",
+    "pirai/lei-2026-01962"
+   ],
+   "sha256": "6ea5506ee9fbc35c4cdd3c56c4a5d5ddf5de9988a45b48f0035bd2f10043c347"
   }
  },
  "schema": 1

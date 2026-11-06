@@ -20,6 +20,14 @@
    "code": "BR-RJ-ARMACAO-DOS-BUZIOS",
    "official_code": "3300233",
    "source": "sapl.armacaodosbuzios.rj.leg.br"
+  },
+  {
+   "id": "pirai",
+   "folder": "pirai",
+   "name": "Piraí",
+   "code": "BR-RJ-PIRAI",
+   "official_code": "3304003",
+   "source": "sapl.pirai.rj.leg.br"
   }
  ]
 }
