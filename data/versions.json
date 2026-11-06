@@ -1,0 +1,485 @@
+{
+ "country": "BR-RJ-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02251",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2251/2026",
+   "title": "Lei nº 2.251, de 9 de outubro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6092",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6092/2251-2026.pdf",
+     "sha256": "a06d2ea4077fbbd928647abe6d89057c8f8966ecd46cfc0815d5e90f1bbcbd2d"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02245",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2245/2026",
+   "title": "Lei nº 2.245, de 1 de outubro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6098",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 8,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6098/2245-2026.pdf",
+     "sha256": "778cf249011c2852cd0e68663eb71d356d512da99436ae1674ab7132648f1768"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02243",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2243/2026",
+   "title": "Lei nº 2.243, de 1 de outubro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6090",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6090/2243-2026.pdf",
+     "sha256": "b2982267cedd34b5f65296e9e4e871bc23d0c6d4388b79cb5f4934eeb5a5cdcc"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02241",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2241/2026",
+   "title": "Lei nº 2.241, de 16 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6081",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6081/lei_ordinaria_no_2.241_de_16_de_setembro_de_2026_sapl.pdf",
+     "sha256": "3f5cea13a586aa1d48bcf08eb38fd6bf00c619016b46fc1b82a2343831968dee"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02240",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2240/2026",
+   "title": "Lei nº 2.240, de 14 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6085",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 6,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6085/lei_ordinaria_no_2.240_de_14_de_setembro_de_2026_sapl.pdf",
+     "sha256": "4b2f436b848e9403bd7a86f3d7668f8cd10869ce66eb73950524521a8c99c449"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02239",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2239/2026",
+   "title": "Lei nº 2.239, de 9 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6075",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6075/lei_ordinaria_no_2.239_de_09_de_setembro_de_2026_sapl.pdf",
+     "sha256": "ce79dd06693fd523383b9e444b6799af576faca86d7a38a278ecc6d709e7d487"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02238",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2238/2026",
+   "title": "Lei nº 2.238, de 2 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6083",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 8,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6083/lei_ordinaria_no_2.238_de_02_de_setembro_de_2026_sapl.pdf",
+     "sha256": "0d49f78803d117417e936625ba0df84d83ca7906ba9dcaa07ea4c8820eadfc4d"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02237",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2237/2026",
+   "title": "Lei nº 2.237, de 2 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6082",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 9,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6082/lei_ordinaria_no_2.237_de_02_de_setembro_de_2026_sapl.pdf",
+     "sha256": "ba59ae0ca18b30e714d4a7312f07c8b9286d08957163d1701327392032b9d839"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02233",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2233/2026",
+   "title": "Lei nº 2.233, de 14 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6052",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6052/lei_ordinaria_no_2.233_de_14_de_agosto_de_2026_sapl.pdf",
+     "sha256": "670d71cfddf2494f1950b40ad9213ded3fe82b12c95b75da10f6b04c5517962d"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02232",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2232/2026",
+   "title": "Lei nº 2.232, de 14 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6051",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6051/lei_ordinaria_no_2.232_de_14_de_agosto_de_2026_sapl.pdf",
+     "sha256": "32c3f92d6d0fd765307461f06c8435155e503d394ec9658c280c14f01c708d83"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02231",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2231/2026",
+   "title": "Lei nº 2.231, de 14 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6050",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6050/lei_ordinaria_no_2.231_de_14_de_agosto_de_2026.pdf",
+     "sha256": "18404c44fec900128541363e2830e1ba9567f3d31884ff22aa21e0b2372fe847"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02230",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2230/2026",
+   "title": "Lei nº 2.230, de 14 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6049",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6049/lei_ordinaria_no_2.230_de_14_de_agosto_de_2026_sapl.pdf",
+     "sha256": "4e709a22ec818423ede7c60af6c1a80d15c5e2cffad3e91292edd7e389ad9654"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02229",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2229/2026",
+   "title": "Lei nº 2.229, de 4 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6045",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 11,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6045/lei_ordinaria_no_2.229_de_04_de_agosto_de_2026_sapl.pdf",
+     "sha256": "42c897667166607f417a384426d34485184e2536955f07b290216bf5faa4560e"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02228",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2228/2026",
+   "title": "Lei nº 2.228, de 4 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6044",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 3,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6044/lei_ordinaria_no_2.228_de_04_de_agosto_de_2026_sapl.pdf",
+     "sha256": "1c0834e8b36c229a75bc5e1c35922e1fc8436ee2896965a242d3a6651d965574"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02224",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2224/2026",
+   "title": "Lei nº 2.224, de 13 de julho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6003",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6003/lei_ordinaria_no_2.224_de_13_de_julho_de_2026_sapl.pdf",
+     "sha256": "d7a13e64efbcffab04f7f694614cb724697a4c72e04f79c99306663104f40469"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02222",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2222/2026",
+   "title": "Lei nº 2.222, de 1 de julho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5976",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5976/lei_ordinaria_no_2.222_de_01_de_julho_de_2026_sapl.pdf",
+     "sha256": "1910f4d3519f6836500a89808b99c7f769c6fdf540dab88818defdbe7e9a9ee2"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02221",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2221/2026",
+   "title": "Lei nº 2.221, de 1 de julho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5975",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5975/lei_ordinaria_no_2.221_de_01_de_julho_de_2026_sapl.pdf",
+     "sha256": "fc2b6c77a07cd7083240fe166a1c8d471e16fc3d511e1d6789f5a4867eec1440"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02220",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2220/2026",
+   "title": "Lei nº 2.220, de 30 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6000",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 11,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6000/lei_ordinaria_no_2.220_de_30_de_junho_de_2026_sapl.pdf",
+     "sha256": "b2ab91d5b8348cc2a6d9e8a24c9a6190345a2145f34cf89f2383d088f41ccfc8"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02219",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2219/2026",
+   "title": "Lei nº 2.219, de 26 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5974",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 7,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5974/lei_ordinaria_no_2.219_de_26_de_junho_de_2026_sapl.pdf",
+     "sha256": "d1d3a08dcfb053e14ec707ac32702d2f1119f870b84e91cf0901a6342b190a95"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02218",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2218/2026",
+   "title": "Lei nº 2.218, de 26 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5973",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 17,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5973/lei_ordinaria_no_2.218_de_26_de_junho_de_2026_sapl.pdf",
+     "sha256": "c4008c4622de5a4a780eead8f0871c4b6d8e94da79c364b15f91300a85aa9f79"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02217",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2217/2026",
+   "title": "Lei nº 2.217, de 26 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5972",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 8,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5972/lei_ordinaria_no_2.217_de_26_de_junho_de_2026_sapl.pdf",
+     "sha256": "dc02b35bdad78b6653edc4a412742e5b904a5901aacbb8af6921e7facf0474b1"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02216",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2216/2026",
+   "title": "Lei nº 2.216, de 26 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5971",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 12,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5971/lei_ordinaria_no_2.216_de_26_de_junho_de_2026_sapl.pdf",
+     "sha256": "e5cb3aba9b7625f87ebdb8b05733e535559d25ca900d1689b457cff6859fe9e5"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02213",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2213/2026",
+   "title": "Lei nº 2.213, de 10 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5944",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 11,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5944/lei_ordinaria_no_2.213_de_10_de_junho_de_2026_sapl.pdf",
+     "sha256": "6058850e5de38c58000ea95754b7415d27c1eed4474126c56e6a11441e2d9793"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02210",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2210/2026",
+   "title": "Lei nº 2.210, de 22 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5936",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 35,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5936/lei_ordinaria_no_2.210_de_22_de_maio_de_2026_sapl.pdf",
+     "sha256": "111fdeb2778ffff8811cf1c34ef683a79a189576c5eaf92dd7f71af952555f94"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02209",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2209/2026",
+   "title": "Lei nº 2.209, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5935",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 6,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5935/lei_ordinaria_no_2.209_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "b52c697c2e0555dd5b5ef6ee38ea9578cde65d9a047e8531eb07d5efb629d23b"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02208",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2208/2026",
+   "title": "Lei nº 2.208, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5934",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 7,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5934/lei_ordinaria_no_2.208_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "a8a318ffc12c0c4b38df9e818b64d6141bd10b44743f0fcfe6b83d272a3486cb"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02207",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2207/2026",
+   "title": "Lei nº 2.207, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5933",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 14,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5933/lei_ordinaria_no_2.207_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "37db12a0b5d1aabf7a769348722bc3b3ec95b27c0abf22797adae9c4e66f15d4"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02206",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2206/2026",
+   "title": "Lei nº 2.206, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5932",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 8,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5932/lei_ordinaria_no_2.206_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "e01fb96d5020dce5fcc513e4a2fb3a3b8e7ff89d9d317968a0f841922356a754"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02205",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2205/2026",
+   "title": "Lei nº 2.205, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5931",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 6,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5931/lei_ordinaria_no_2.205_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "6e3ebf041214e5335be096c8c9878ebdf030a20ec1c549db751040948b9c3f1c"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lc-2026-00073",
+   "unit": "armacao-dos-buzios",
+   "short": "LC 73/2026",
+   "title": "Lei Complementar nº 73, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5947",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 26,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5947/lei_complementar_no_73_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "e74f39c2e06d11c6e8beeb9291a694a7d096ea8719b0d9f1b8f8d9393b6e36f5"
+    }
+   ]
+  },
+  {
+   "slug": "armacao-dos-buzios/lei-2026-02201",
+   "unit": "armacao-dos-buzios",
+   "short": "Lei 2201/2026",
+   "title": "Lei nº 2.201, de 11 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6002",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 4,
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6002/lei_ordinaria_no_2.201_de_11_de_maio_de_2026_sapl.pdf",
+     "sha256": "259e574755a1858aea143b576886fa30b7e198e53e9769f8626461c7543abf8f"
+    }
+   ]
+  },
+  {
+   "slug": "itaguai/lei-2026-04347",
+   "unit": "itaguai",
+   "short": "Lei 4347/2026",
+   "title": "Lei nº 4.347, de 13 de agosto de 2026",
+   "url": "https://sapl.itaguai.rj.leg.br/norma/4477",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 9,
+     "source_url": "https://sapl.itaguai.rj.leg.br/media/sapl/public/normajuridica/2026/4477/lei_no_4.347_2026.pdf",
+     "sha256": "e79fb91948f5e42e792887b1e4946bf6b3f2de3fce9d75edfc4080b4c7f2a9ba"
+    }
+   ]
+  }
+ ]
+}

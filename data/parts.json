@@ -1,0 +1,47 @@
+{
+ "parts": {
+  "armacao-dos-buzios--30-leis-001.json": {
+   "acts": [
+    "armacao-dos-buzios/lc-2026-00073",
+    "armacao-dos-buzios/lei-2026-02201",
+    "armacao-dos-buzios/lei-2026-02205",
+    "armacao-dos-buzios/lei-2026-02206",
+    "armacao-dos-buzios/lei-2026-02207",
+    "armacao-dos-buzios/lei-2026-02208",
+    "armacao-dos-buzios/lei-2026-02209",
+    "armacao-dos-buzios/lei-2026-02210",
+    "armacao-dos-buzios/lei-2026-02213",
+    "armacao-dos-buzios/lei-2026-02216",
+    "armacao-dos-buzios/lei-2026-02217",
+    "armacao-dos-buzios/lei-2026-02218",
+    "armacao-dos-buzios/lei-2026-02219",
+    "armacao-dos-buzios/lei-2026-02220",
+    "armacao-dos-buzios/lei-2026-02221",
+    "armacao-dos-buzios/lei-2026-02222",
+    "armacao-dos-buzios/lei-2026-02224",
+    "armacao-dos-buzios/lei-2026-02228",
+    "armacao-dos-buzios/lei-2026-02229",
+    "armacao-dos-buzios/lei-2026-02230",
+    "armacao-dos-buzios/lei-2026-02231",
+    "armacao-dos-buzios/lei-2026-02232",
+    "armacao-dos-buzios/lei-2026-02233",
+    "armacao-dos-buzios/lei-2026-02237",
+    "armacao-dos-buzios/lei-2026-02238",
+    "armacao-dos-buzios/lei-2026-02239",
+    "armacao-dos-buzios/lei-2026-02240",
+    "armacao-dos-buzios/lei-2026-02241",
+    "armacao-dos-buzios/lei-2026-02243",
+    "armacao-dos-buzios/lei-2026-02245",
+    "armacao-dos-buzios/lei-2026-02251"
+   ],
+   "sha256": "9d240ad354bde0da086e981c61d5dc30fae9a1ea80c5d11e5803fea1b4ebaef0"
+  },
+  "itaguai--30-leis-001.json": {
+   "acts": [
+    "itaguai/lei-2026-04347"
+   ],
+   "sha256": "c33c758381c42b7ec5e1c845fc0be187df2563bdb1432510b7054bff0903eec7"
+  }
+ },
+ "schema": 1
+}

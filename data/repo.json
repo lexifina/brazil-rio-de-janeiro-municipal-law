@@ -1,0 +1,25 @@
+{
+ "country": "BR-RJ-MUNICIPAL",
+ "name": "Rio de Janeiro: municipal chambers",
+ "tz": "America/Sao_Paulo",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Rio de Janeiro (SAPL)",
+ "units": [
+  {
+   "id": "itaguai",
+   "folder": "itaguai",
+   "name": "Itaguaí",
+   "code": "BR-RJ-ITAGUAI",
+   "official_code": "3302007",
+   "source": "sapl.itaguai.rj.leg.br"
+  },
+  {
+   "id": "armacao-dos-buzios",
+   "folder": "armacao-dos-buzios",
+   "name": "Armação dos Búzios",
+   "code": "BR-RJ-ARMACAO-DOS-BUZIOS",
+   "official_code": "3300233",
+   "source": "sapl.armacaodosbuzios.rj.leg.br"
+  }
+ ]
+}
