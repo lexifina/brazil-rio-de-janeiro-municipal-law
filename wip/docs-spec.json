@@ -1,0 +1,17 @@
+{
+ "name": "Rio de Janeiro (municipal chambers)",
+ "full": "the municipalities of Rio de Janeiro",
+ "code": "BR-RJ-MUNICIPAL",
+ "slug": "brazil-rio-de-janeiro-municipal",
+ "parent": "br-rj",
+ "official": "each municipality's Diário Oficial",
+ "publisher": "Câmaras Municipais de Rio de Janeiro",
+ "site": "each Câmara Municipal's SAPL",
+ "site_url": "https://www.interlegis.leg.br/",
+ "holds": "| Folder | Act | Versions |\n| --- | --- | ---: |\n| `<city>/lei-*/`, `<city>/lc-*/` | Municipal laws (Leis and Leis Complementares) of each city, newest first | one each, as enacted |\n\nOne folder per city (the units in `data/repo.json`). Each law the Câmara's SAPL lists with a PDF that has a text layer of its own, as enacted, credited to itself. Scans and laws that take effect on another day than their publication are left out.\n\nState law is in [brazil-rio-de-janeiro-law](https://github.com/lexifina/brazil-rio-de-janeiro-law); federal law is in [brazil-law](https://github.com/lexifina/brazil-law).",
+ "dates": "Each law is dated by the publication date its Câmara's SAPL records for it (else by its own date), and only laws whose own vigência clause says they take effect on their publication (or signature) are taken in. Each city's laws are in date order; cities added later are appended after the existing history.",
+ "built": "Each law's PDF is read from its heading to the closing line that ends in its date; repeated page headers and footers and page numbers are left out; one file per Art.",
+ "limits": "The record is each SAPL's: a version is only as exact as the Câmara's text for it. Only some of each city's laws are in. The text is not the official version: only the Diário Oficial is authoritative.",
+ "build": "built: the municipal law of Rio de Janeiro from the Câmaras Municipais' SAPL",
+ "terms": "- SAPL (the source): \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\" (CC BY-SA 4.0): sources credited above.\n"
+}

@@ -1,0 +1,2211 @@
+{
+ "unit": "armacao-dos-buzios",
+ "laws": {
+  "armacao-dos-buzios-lei-2026-02251": {
+   "label": "Lei nº 2.251, de 9 de outubro de 2026",
+   "title": "Dispõe sobre a revisão anual da Lei Municipal nº 2.142, de 12 de dezembro de 2025 - Plano Plurianual - PPA do Município de Armação dos Búzios para o período de 2026 a 2029, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-10-09",
+   "published": "2026-10-13",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6092",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02245": {
+   "label": "Lei nº 2.245, de 1 de outubro de 2026",
+   "title": "Dispõe sobre a Política Municipal de Agendamento Digital de Consultas e Exames na Rede Pública de Saúde do Município de Armação dos Búzios.",
+   "kind": "law",
+   "enacted": "2026-10-01",
+   "published": "2026-10-14",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6098",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02243": {
+   "label": "Lei nº 2.243, de 1 de outubro de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 123.306,02 (cento e vinte e três mil, trezentos e seis reais e dois centavos), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-10-01",
+   "published": "2026-10-02",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6090",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02241": {
+   "label": "Lei nº 2.241, de 16 de setembro de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 3.300,00 (três mil e trezentos reais), e dá outras providências",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6081",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02240": {
+   "label": "Lei nº 2.240, de 14 de setembro de 2026",
+   "title": "Instituir diretrizes para a Política Municipal de Assistência Psicológica às Pessoas em Tratamento Oncológico no Município de Armação dos Búzios/RJ.",
+   "kind": "law",
+   "enacted": "2026-09-14",
+   "published": "2026-09-25",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6085",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02239": {
+   "label": "Lei nº 2.239, de 9 de setembro de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 33.499,80 (trinta e três mil, quatrocentos e noventa e nove reais e oitenta centavos), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6075",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02238": {
+   "label": "Lei nº 2.238, de 2 de setembro de 2026",
+   "title": "Institui o Programa \"Enxergando o Futuro\" no âmbito do Município de Armação dos Búzios, voltado à identificação precoce, prevenção e encaminhamento para tratamento de problemas de saúde ocular de alunos da rede municipal de ensino, estabelece diretrizes para a gestão intersetorial e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-09-02",
+   "published": "2026-09-16",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6083",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02237": {
+   "label": "Lei nº 2.237, de 2 de setembro de 2026",
+   "title": "Dispõe sobre instituir, no Município de Armação dos Búzios, a Política Municipal de Busca Ativa do Sub-registro Paterno na rede municipal de ensino, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-09-02",
+   "published": "2026-09-16",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6082",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02233": {
+   "label": "Lei nº 2.233, de 14 de agosto de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 339.000,00 (trezentos e trinta e nove mil reais), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-08-14",
+   "published": "2026-08-14",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6052",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02232": {
+   "label": "Lei nº 2.232, de 14 de agosto de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 180.000,00 (cento e oitenta mil reais) , e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-08-14",
+   "published": "2026-08-14",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6051",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02231": {
+   "label": "Lei nº 2.231, de 14 de agosto de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 1.507.337,36 (um milhão, quinhentos e sete mil, trezentos e trinta e sete reais e trinta e seis centavos), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-08-14",
+   "published": "2026-08-14",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6050",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02230": {
+   "label": "Lei nº 2.230, de 14 de agosto de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 60.000,00 (sessenta mil reais), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-08-14",
+   "published": "2026-08-14",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6049",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02229": {
+   "label": "Lei nº 2.229, de 4 de agosto de 2026",
+   "title": "Institui a Política Municipal de Identificação e Padronização das Servidões de Acesso às Praias no Município de Armação dos Búzios.",
+   "kind": "law",
+   "enacted": "2026-08-04",
+   "published": "2026-08-10",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6045",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02228": {
+   "label": "Lei nº 2.228, de 4 de agosto de 2026",
+   "title": "Dispõe sobre a alteração do inciso IX do art. 1º da Lei nº 770, de 22 de janeiro de 2010, que autoriza o Poder Executivo a conceder isenção de Imposto Predial e Territorial Urbano - IPTU, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-08-04",
+   "published": "2026-08-10",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6044",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02224": {
+   "label": "Lei nº 2.224, de 13 de julho de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 250.000,00 (duzentos e cinquenta mil reais) e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-07-13",
+   "published": "2026-07-13",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6003",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02222": {
+   "label": "Lei nº 2.222, de 1 de julho de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 500.000,00 (quinhentos mil reais) e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-07-01",
+   "published": "2026-07-01",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02221": {
+   "label": "Lei nº 2.221, de 1 de julho de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 116.745,28 e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-07-01",
+   "published": "2026-07-01",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02220": {
+   "label": "Lei nº 2.220, de 30 de junho de 2026",
+   "title": "Cria o Programa de Comunicação e Frequência Escolar Digital no âmbito da educação básica, por meio de tecnologias de identificação automatizada, inclusive reconhecimento facial e inteligência artificial.",
+   "kind": "law",
+   "enacted": "2026-06-30",
+   "published": "2026-07-10",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6000",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02219": {
+   "label": "Lei nº 2.219, de 26 de junho de 2026",
+   "title": "Dispõe sobre garantir a manutenção de vagas em creches e unidades escolares da Rede Municipal de Ensino.",
+   "kind": "law",
+   "enacted": "2026-06-26",
+   "published": "2026-07-01",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02218": {
+   "label": "Lei nº 2.218, de 26 de junho de 2026",
+   "title": "Dispõe sobre estabelecer diretrizes para a Política Municipal de Educação e Controle da Poluição Sonora.",
+   "kind": "law",
+   "enacted": "2026-06-26",
+   "published": "2026-07-01",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02217": {
+   "label": "Lei nº 2.217, de 26 de junho de 2026",
+   "title": "Dispõe sobre a criação do Posto de Saúde Animal Municipal em estrutura modular (contêiner) no Município de Armação dos Búzios.",
+   "kind": "law",
+   "enacted": "2026-06-26",
+   "published": "2026-07-01",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5972",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02216": {
+   "label": "Lei nº 2.216, de 26 de junho de 2026",
+   "title": "Institui, no âmbito do Município de Armação dos Búzios, o Programa Municipal Casa das Mães Atípicas, destinado ao acolhimento, apoio e fortalecimento das mulheres cuidadoras de pessoas com deficiência ou necessidades especiais, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-06-26",
+   "published": "2026-07-01",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02213": {
+   "label": "Lei nº 2.213, de 10 de junho de 2026",
+   "title": "Dispões sobre Instituir o Plano Municipal de Cultura de Armação dos Búzios para o Decênio 2025-2035.",
+   "kind": "law",
+   "enacted": "2026-06-10",
+   "published": "2026-06-10",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5944",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02210": {
+   "label": "Lei nº 2.210, de 22 de maio de 2026",
+   "title": "Dispõe sobre a coleta, o transporte, o tratamento e a destinação dos resíduos sólidos e a disposição final dos rejeitos provenientes dos grandes geradores no Município de Armação dos Búzios e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-22",
+   "published": "2026-05-29",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5936",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02209": {
+   "label": "Lei nº 2.209, de 18 de maio de 2026",
+   "title": "Dispõe sobre a inclusão de carne de peixe no cardápio da merenda escolar na rede pública de ensino municipal em Armação dos Búzios/RJ, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-20",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5935",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02208": {
+   "label": "Lei nº 2.208, de 18 de maio de 2026",
+   "title": "Dispõe sobre criar o Campeonato Oficial de Futebol Amador do Município de Armação dos Búzios, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-20",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5934",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02207": {
+   "label": "Lei nº 2.207, de 18 de maio de 2026",
+   "title": "Fica facultado o Poder Executivo Municipal a instituir o Programa Municipal de Pontos Públicos de Hidratação com Água Potável Gratuita, como instrumento de promoção da saúde preventiva, sustentabilidade ambiental e qualificação do espaço urbano, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-20",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5933",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02206": {
+   "label": "Lei nº 2.206, de 18 de maio de 2026",
+   "title": "Dispõe sobre a proibição da instalação de hidrômetros em calçadas, passeios públicos e áreas externas dos imóveis sem autorização expressa do morador ou proprietário, no âmbito do Município de Armação dos Búzios, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-20",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5932",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02205": {
+   "label": "Lei nº 2.205, de 18 de maio de 2026",
+   "title": "Dispõe sobre Instituir os Jogos Municipais dos Idosos e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-20",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5931",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lc-2026-00073": {
+   "label": "Lei Complementar nº 73, de 18 de maio de 2026",
+   "title": "Dispõe acrescentar dispositivos à Lei Complementar nº 6, de 10 de setembro de 2002 (Código de Posturas), para disciplinar o comércio ambulante nas praias do Município de Armação dos Búzios.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-20",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5947",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "armacao-dos-buzios-lei-2026-02201": {
+   "label": "Lei nº 2.201, de 11 de maio de 2026",
+   "title": "Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 161.962,00 (cento e sessenta e um mil, novecentos e sessenta e dois reais) e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-11",
+   "published": "2026-05-11",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6002",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-02251",
+   "short": "Lei 2251/2026",
+   "title": "Lei nº 2.251, de 9 de outubro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6092",
+   "first_law": "armacao-dos-buzios-lei-2026-02251",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6092/2251-2026.pdf",
+     "sha256": "a06d2ea4077fbbd928647abe6d89057c8f8966ecd46cfc0815d5e90f1bbcbd2d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.251, de 09 de outubro de 2026 Dispõe sobre a revisão anual da Lei Municipal nº 2.142, de 12 de dezembro de 2025 - Plano Plurianual - PPA do Município de Armação dos Búzios para o período de 2026 a 2029, e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. A Lei Municipal nº 2.142, de 12 de dezembro de 2025, que instituiu o Plano Plurianual - PPA do Município de Armação dos Búzios para o período compreendido entre 2026 a 2029 passa a vigorar com a revisão anual prevista nos arts. 13 a 15, nos termos dos anexos que acompanham esta Lei a seguir relacionados:\nI - anexos demonstrativos, contendo:\na) Anexo I - Demonstrativo da Evolução da Receita;\nb) Anexo II - Demonstrativo da Evolução da Receita - Metodologia de Cálculo;\nc) Anexo III - Estrutura Administrativa e Orçamentária;\nd) Anexo IV - Unidades Gestoras do Poder Executivo - Principais Atribuições;\ne) Anexo V - Funções e Subfunções Orçamentárias;\nf) Anexo VI - Programas Finalísticos e Programas de Melhoria da Gestão de Políticas Públicas;\ng) Anexo VII - Indicadores por Programas Finalísticos;\nh) Anexo VIII - Valores por Funções e Unidades Orçamentárias;\ni) Compatibilização dos Programas Finalísticos com os Objetivos do Desenvolvimento Sustentável.\nII - anexos estruturantes do Plano Plurianual:\na) Anexo X - Programas Finalísticos;\nb) Anexo XI - Programas de Apoio Administrativo;\nc) Anexo XII - Programas de Operações Especiais;\nd) Anexo XIII - Totalização do PPA 2026-2029.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os valores financeiros constantes nos Anexos desta Lei são fixados, exclusivamente, para conferir consistência econômica e financeira ao Plano e suas alterações, não se constituindo em limites para a elaboração das respectivas leis orçamentárias, desde que compatíveis com os programas, seus objetivos e ações, indicadores e metas, obedecidos os parâmetros fixados pela Lei de Diretrizes Orçamentárias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nArmação dos Búzios, 9 de outubro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.251, de 9 de outubro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02245",
+   "short": "Lei 2245/2026",
+   "title": "Lei nº 2.245, de 1 de outubro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6098",
+   "first_law": "armacao-dos-buzios-lei-2026-02245",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6098/2245-2026.pdf",
+     "sha256": "778cf249011c2852cd0e68663eb71d356d512da99436ae1674ab7132648f1768",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.245, de 01 de outubro de 2026 Dispõe sobre a Política Municipal de Agendamento Digital de Consultas e Exames na Rede Pública de Saúde do Município de Armação dos Búzios.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica criada a Política Municipal de Agendamento Digital de Consultas e Exames, com o objetivo de modernizar, facilitar e ampliar o acesso dos usuários do Sistema Único de Saúde (SUS) às unidades de saúde do Município de Armação dos Búzios.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A política instituída por esta Lei será orientada pelos seguintes princípios:\nI - acessibilidade digital ao cidadão;\nII - redução de filas presenciais e tempo de espera;\nIII - transparência no agendamento e na oferta de serviços;\nIV - promoção da inclusão tecnológica no SUS municipal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo poderá, observada a disponibilidade orçamentária e conveniência administrativa:\nI - Disponibilizar aos usuários da rede municipal de saúde um aplicativo e/ou plataforma digital para celulares e computadores com o objetivo de permitir:\na) agendamento de consultas médicas e exames;\nb) consulta de resultados de exames laboratoriais e de imagem;\nc) recebimento de alertas e lembretes de atendimentos;\nd) atualização cadastral e acesso ao histórico de atendimentos.\nII - integrar a plataforma digital com os sistemas já existentes no Município ou com sistemas estaduais e federais, como o SUS Digital e o Conecta SUS.\nParágrafo único A presente política poderá ser regulamentada por meio de decreto ou outro instrumento normativo pertinente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A implementação desta política poderá ocorrer de forma gradual, conforme critérios técnicos definidos pela Secretaria Municipal de Saúde.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A coleta, o armazenamento e o tratamento dos dados pessoais dos usuários no âmbito desta política deverão observar as disposições da Lei Federal nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), garantindo a segurança e a privacidade das informações.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O Executivo poderá firmar convênios ou parcerias com órgãos públicos, instituições de ensino ou empresas privadas para o desenvolvimento e a manutenção do sistema, observadas as normas legais vigentes.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 1º de outubro de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.245, de 1 de outubro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02243",
+   "short": "Lei 2243/2026",
+   "title": "Lei nº 2.243, de 1 de outubro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6090",
+   "first_law": "armacao-dos-buzios-lei-2026-02243",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6090/2243-2026.pdf",
+     "sha256": "b2982267cedd34b5f65296e9e4e871bc23d0c6d4388b79cb5f4934eeb5a5cdcc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.243, de 01 de outubro de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor que menciona, e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 123.306,02 (cento e vinte e três mil, trezentos e seis reais e dois centavos) na forma do Anexo I.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 1º de outubro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.243, de 1 de outubro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02241",
+   "short": "Lei 2241/2026",
+   "title": "Lei nº 2.241, de 16 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6081",
+   "first_law": "armacao-dos-buzios-lei-2026-02241",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6081/lei_ordinaria_no_2.241_de_16_de_setembro_de_2026_sapl.pdf",
+     "sha256": "3f5cea13a586aa1d48bcf08eb38fd6bf00c619016b46fc1b82a2343831968dee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.241, de 16 de setembro de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 3.300,00 (três mil e trezentos reais), e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 3.300,00 (três mil e trezentos reais) na forma do Anexo I.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 16 de setembro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.241, de 16 de setembro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02240",
+   "short": "Lei 2240/2026",
+   "title": "Lei nº 2.240, de 14 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6085",
+   "first_law": "armacao-dos-buzios-lei-2026-02240",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6085/lei_ordinaria_no_2.240_de_14_de_setembro_de_2026_sapl.pdf",
+     "sha256": "4b2f436b848e9403bd7a86f3d7668f8cd10869ce66eb73950524521a8c99c449",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.240, de 14 de setembro de 2026 Institui diretrizes para a Política Municipal de Psicológica tratamento as Assistência pessoas Oncológico em no Município de Armação dos Búzios e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Ficam instituídas diretrizes para a Política Municipal de Assistência Psicológica às Pessoas em Tratamento Oncológico no Município de Armação dos Búzios/RJ, com a finalidade de promover ações de acolhimento emocional, apoio psicossocial e atenção à saúde mental de pacientes diagnosticados com câncer, bem como de seus familiares e cuidadores.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. São diretrizes da Política Municipal de Assistência Psicológica às Pessoas em Tratamento Oncológico:\nI - O incentivo ao acompanhamento psicológico individual e coletivo de pacientes em tratamento oncológico;\nII - A promoção de ações de suporte emocional e psicossocial aos familiares e cuidadores;\nIII - O estímulo à realização de atividades complementares voltadas ao bem-estar emocional, autoestima e qualidade de vida;\nIV - A integração entre os serviços de saúde e assistência social voltados ao atendimento da pessoa em tratamento oncológico.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo poderá promover ações, programas, parcerias e convênios com instituições públicas ou privadas, entidades da sociedade civil, instituições de ensino e organizações sem fins lucrativos, visando à implementação das diretrizes previstas nesta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A execução das ações previstas nesta Lei observará a disponibilidade orçamentária e financeira do Município.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 14 de setembro de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.240, de 14 de setembro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02239",
+   "short": "Lei 2239/2026",
+   "title": "Lei nº 2.239, de 9 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6075",
+   "first_law": "armacao-dos-buzios-lei-2026-02239",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6075/lei_ordinaria_no_2.239_de_09_de_setembro_de_2026_sapl.pdf",
+     "sha256": "ce79dd06693fd523383b9e444b6799af576faca86d7a38a278ecc6d709e7d487",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.239, de 09 de setembro de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 33.499,80 (trinta e três mil, quatrocentos e noventa e nove reais e oitenta centavos), e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 33.499,80 (trinta e três mil, quatrocentos e noventa e nove reais e oitenta centavos) na forma do Anexo I.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 9 de setembro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.239, de 9 de setembro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02238",
+   "short": "Lei 2238/2026",
+   "title": "Lei nº 2.238, de 2 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6083",
+   "first_law": "armacao-dos-buzios-lei-2026-02238",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6083/lei_ordinaria_no_2.238_de_02_de_setembro_de_2026_sapl.pdf",
+     "sha256": "0d49f78803d117417e936625ba0df84d83ca7906ba9dcaa07ea4c8820eadfc4d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.238, de 02 de setembro de 2026 Institui o Programa \"Enxergando o Futuro\" no âmbito do Município de Armação dos Búzios, voltado à identificação precoce, prevenção e encaminhamento para tratamento de problemas de saúde ocular de alunos da rede municipal de ensino, estabelece diretrizes para a gestão intersetorial e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, no âmbito do Município de Armação dos Búzios, o Programa \"Enxergando o Futuro\", com o objetivo de contribuir para a melhoria da aprendizagem, do desempenho acadêmico e da qualidade de vida dos alunos regularmente matriculados na rede municipal de ensino, por meio da identificação precoce e do encaminhamento para atendimento especializado de problemas de visão e de saúde ocular.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Programa \"Enxergando o Futuro\" pautar-se-á pelas seguintes diretrizes e ações integradas:\nI - realização de triagens visuais e exames preliminares não invasivos nas dependências das unidades escolares da rede pública municipal de ensino;\nII - formulação e promoção de campanhas educativas periódicas voltadas à conscientização de educadores, pais, responsáveis e alunos sobre a importância do diagnóstico precoce de patologias oculares e do acompanhamento oftalmológico;\nIII - encaminhamento prioritário dos alunos identificados com potenciais distúrbios de refração ou patologias da visão para consulta médica especializada, diagnóstico definitivo e respectivo tratamento no âmbito da rede pública de saúde;\nIV - articulação intersetorial permanente entre os órgãos municipais responsáveis pelas pastas de Educação, Saúde e Assistência Social para o mapeamento, triagem e acompanhamento contínuo dos educandos;\nV - incentivo à obtenção de doações, concessão de óculos e fornecimento de lentes corretivas a alunos em situação de vulnerabilidade social e hipossuficiência econômica, com fulcro em critérios socioeconômicos estabelecidos na legislação vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Para a consecução dos objetivos desta Lei, o Poder Executivo poderá firmar parcerias, convênios, acordos de cooperação técnica ou outros instrumentos jurídicos assemelhados com pessoas físicas ou jurídicas de direito público ou privado, entidades sem fins lucrativos, organizações da sociedade civil, profissionais e clínicas especializadas de optometria e oftalmologia, óticas e laboratórios ópticos, observado o manifesto interesse público e a legislação federal aplicável.\nParágrafo único As cooperações reguladas no caput deste artigo poderão abranger a cessão de uso de equipamentos de diagnóstico, a prestação de serviços voluntários profissionais ou o fornecimento subsidiado de insumos ópticos, em estrita observância à Lei Federal nº 9.608, de 18 de fevereiro de 1998.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A participação de profissionais voluntários ou entidades parceiras na execução das ações do programa possui caráter estritamente benemérito e não gerará vínculo empregatício, estatutário, funcional, tampouco qualquer obrigação de natureza trabalhista, previdenciária, indenizatória ou afim com a Administração Pública Municipal.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As ações do Programa \"Enxergando o Futuro\" que demandem execução direta por órgãos municipais dar-se-ão de forma programática e gradual, de acordo com a conveniência administrativa, critérios técnicos oficiais e a disponibilidade orçamentária do Município, priorizando-se o aproveitamento e a otimização dos recursos humanos, materiais e estruturais já disponíveis nas respectivas secretarias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário, ficando o Poder Executivo autorizado a remanejar recursos ou a buscar fontes alternativas de financiamento via convênios estaduais, federais ou parcerias privadas.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nArmação dos Búzios, 2 de setembro de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.238, de 2 de setembro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02237",
+   "short": "Lei 2237/2026",
+   "title": "Lei nº 2.237, de 2 de setembro de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6082",
+   "first_law": "armacao-dos-buzios-lei-2026-02237",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6082/lei_ordinaria_no_2.237_de_02_de_setembro_de_2026_sapl.pdf",
+     "sha256": "ba59ae0ca18b30e714d4a7312f07c8b9286d08957163d1701327392032b9d839",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.237, de 02 de setembro de 2026 Dispõe sobre instituir, no Município de Armação dos Búzios, a Política Municipal de Busca Ativa do Sub-registro Paterno na rede municipal de ensino, e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituída, no âmbito do Município de Armação dos Búzios, a Política Municipal de Busca Ativa do Sub-registro Paterno, com a finalidade de identificar, orientar e encaminhar crianças e adolescentes que não possuam o nome do pai em seu registro civil.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A Política Municipal de que trata esta Lei tem como objetivos:\nI - combater o sub-registro paterno no Município;\nII - assegurar o direito fundamental à identidade, à filiação e à dignidade da criança e do adolescente;\nIII - promover o fortalecimento dos vínculos familiares;\nIV - ampliar o acesso à orientação jurídica e psicossocial às famílias;\nV - estimular o reconhecimento voluntário da paternidade, nos termos da legislação vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A Política Municipal será desenvolvida preferencialmente no âmbito da rede municipal de ensino, por meio de ações de busca ativa, respeitados o sigilo, a proteção de dados pessoais e o melhor interesse da criança e do adolescente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Para fins desta Lei, consideram-se ações de busca ativa, entre outras:\nI - levantamento interno, de caráter sigiloso, da existência de alunos com ausência de registro paterno;\nII - orientação às mães, responsáveis legais ou aos próprios alunos, quando maiores de 12 (doze) anos, sobre o direito ao reconhecimento de paternidade;\nIII - encaminhamento, quando houver consentimento, aos órgãos competentes para fins de reconhecimento paterno;\nIV - realização de ações educativas e informativas no ambiente escolar.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Poder Executivo poderá firmar parcerias e cooperações técnicas com:\nI - o Ministério Público do Estado do Rio de Janeiro;\nII - o Poder Judiciário;\nIII - a Defensoria Pública;\nIV - os Cartórios de Registro Civil;\nV - Fundação Leão XIII.\nVI - Conselhos Tutelares e demais órgãos da rede de proteção à criança e ao adolescente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A execução da Política Municipal observará os princípios:\nI - do melhor interesse da criança e do adolescente;\nII - da dignidade da pessoa humana;\nIII - da voluntariedade do reconhecimento de paternidade;\nIV - do sigilo das informações;\nV - da proteção integral, nos termos do Estatuto da Criança e do Adolescente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. O Poder Executivo poderá regulamentar esta Lei, no que couber.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 2 de setembro de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.237, de 2 de setembro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02233",
+   "short": "Lei 2233/2026",
+   "title": "Lei nº 2.233, de 14 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6052",
+   "first_law": "armacao-dos-buzios-lei-2026-02233",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6052/lei_ordinaria_no_2.233_de_14_de_agosto_de_2026_sapl.pdf",
+     "sha256": "670d71cfddf2494f1950b40ad9213ded3fe82b12c95b75da10f6b04c5517962d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.233, de 14 de agosto de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 339.000,00 (trezentos e trinta e nove mil reais), e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 339.000,00 (trezentos e trinta e nove mil reais) na forma do anexo I, desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 14 de agosto de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.233, de 14 de agosto de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02232",
+   "short": "Lei 2232/2026",
+   "title": "Lei nº 2.232, de 14 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6051",
+   "first_law": "armacao-dos-buzios-lei-2026-02232",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6051/lei_ordinaria_no_2.232_de_14_de_agosto_de_2026_sapl.pdf",
+     "sha256": "32c3f92d6d0fd765307461f06c8435155e503d394ec9658c280c14f01c708d83",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.232, de 14 de agosto de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 180.000,00 (cento e oitenta mil reais) , e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 180.000,00 (cento e oitenta mil reais) na forma do anexo I, desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 14 de agosto de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.232, de 14 de agosto de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02231",
+   "short": "Lei 2231/2026",
+   "title": "Lei nº 2.231, de 14 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6050",
+   "first_law": "armacao-dos-buzios-lei-2026-02231",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6050/lei_ordinaria_no_2.231_de_14_de_agosto_de_2026.pdf",
+     "sha256": "18404c44fec900128541363e2830e1ba9567f3d31884ff22aa21e0b2372fe847",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.231, de 14 de agosto de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor que menciona, e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 1.507.337,36 (um milhão, quinhentos e sete mil, trezentos e trinta e sete reais e trinta e seis centavos) na forma do Anexo I.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 14 de agosto de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.231, de 14 de agosto de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02230",
+   "short": "Lei 2230/2026",
+   "title": "Lei nº 2.230, de 14 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6049",
+   "first_law": "armacao-dos-buzios-lei-2026-02230",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6049/lei_ordinaria_no_2.230_de_14_de_agosto_de_2026_sapl.pdf",
+     "sha256": "4e709a22ec818423ede7c60af6c1a80d15c5e2cffad3e91292edd7e389ad9654",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.230, de 14 de agosto de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 60.000,00 (sessenta mil reais), e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 60.000,00 (sessenta mil reais) na forma do Anexo I.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 14 de agosto de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.230, de 14 de agosto de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02229",
+   "short": "Lei 2229/2026",
+   "title": "Lei nº 2.229, de 4 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6045",
+   "first_law": "armacao-dos-buzios-lei-2026-02229",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6045/lei_ordinaria_no_2.229_de_04_de_agosto_de_2026_sapl.pdf",
+     "sha256": "42c897667166607f417a384426d34485184e2536955f07b290216bf5faa4560e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.229, de 04 de agosto de 2026 Institui a Política Municipal de Identificação e Padronização das Servidões de Acesso às Praias no Município de Armação dos Búzios.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituída a Política Municipal de Identificação e Padronização das Servidões de Acesso às Praias, com a finalidade de assegurar a orientação urbana, a transparência do acesso público e o ordenamento territorial no Município de Armação dos Búzios.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. São objetivos da Política Municipal:\nI - garantir a identificação clara e inequívoca das servidões de acesso às praias;\nII - assegurar a publicidade do caráter público desses acessos;\nIII - facilitar a localização por moradores, visitantes e turistas;\nIV - contribuir para a atuação eficiente dos serviços públicos; e\nV - promover a organização do espaço urbano e o fortalecimento do turismo sustentável.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. São diretrizes da Política Municipal:\nI - padronização visual dos elementos de identificação;\nII - adoção de numeração sequencial, de denominação das servidões ou de ambas;\nIII - utilização de linguagem acessível e, sempre que possível, recursos de acessibilidade universal;\nIV - integração das informações com instrumentos de planejamento urbano e turístico; e\nV - priorização de áreas com maior fluxo de pessoas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Para os fins desta Lei, considera-se:\nI - servidão de acesso às praias: toda passagem pública destinada ao acesso às praias marítimas, independentemente de sua denominação formal; e\nII - identificação: qualquer forma de sinalização física ou informativa que permita reconhecer e localizar a servidão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A implementação de ações voltadas à identificação e padronização das servidões de acesso às praias observará as diretrizes previstas nesta Lei, no âmbito do planejamento administrativo do Poder Executivo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. As ações decorrentes desta Política contemplarão, entre outras medidas:\nI - instalação de sinalização indicativa;\nII - organização e sistematização cadastral das servidões;\nIII - disponibilização de informações em meios digitais e materiais turísticos; e\nIV - integração com políticas de mobilidade urbana, turismo e acessibilidade.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. A implementação desta Política observará os princípios da eficiência, razoabilidade e economicidade, bem como a disponibilidade orçamentária e financeira do Município.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O Poder Executivo poderá regulamentar esta Lei para sua fiel execução.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 4 de agosto de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.229, de 4 de agosto de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02228",
+   "short": "Lei 2228/2026",
+   "title": "Lei nº 2.228, de 4 de agosto de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6044",
+   "first_law": "armacao-dos-buzios-lei-2026-02228",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6044/lei_ordinaria_no_2.228_de_04_de_agosto_de_2026_sapl.pdf",
+     "sha256": "1c0834e8b36c229a75bc5e1c35922e1fc8436ee2896965a242d3a6651d965574",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.228, de 04 de agosto de 2026 Altera o(a) Lei Ordinária nº 770, de 22 de janeiro de 2010 Dispõe sobre a alteração da Lei nº 770, de 22 de janeiro de 2010, que autoriza o Poder Executivo a conceder isenção de Imposto Predial e Territorial Urbano - IPTU, e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O art. 1º da Lei nº 770, de 22 de janeiro de 2010, passa a vigorar com as seguintes alterações:\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 4 de agosto de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.228, de 4 de agosto de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02224",
+   "short": "Lei 2224/2026",
+   "title": "Lei nº 2.224, de 13 de julho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6003",
+   "first_law": "armacao-dos-buzios-lei-2026-02224",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6003/lei_ordinaria_no_2.224_de_13_de_julho_de_2026_sapl.pdf",
+     "sha256": "d7a13e64efbcffab04f7f694614cb724697a4c72e04f79c99306663104f40469",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.224, de 13 de julho de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 250.000,00 (duzentos e cinquenta mil reais) e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 250.000,00 (duzentos e cinquenta mil reais) na forma do anexo I.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 13 de julho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.224, de 13 de julho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02222",
+   "short": "Lei 2222/2026",
+   "title": "Lei nº 2.222, de 1 de julho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5976",
+   "first_law": "armacao-dos-buzios-lei-2026-02222",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5976/lei_ordinaria_no_2.222_de_01_de_julho_de_2026_sapl.pdf",
+     "sha256": "1910f4d3519f6836500a89808b99c7f769c6fdf540dab88818defdbe7e9a9ee2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.222, de 01 de julho de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 500.000,00 (quinhentos mil reais) e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 500.000,00 (quinhentos mil reais) na forma do anexo I, desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 1º de julho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.222, de 1 de julho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02221",
+   "short": "Lei 2221/2026",
+   "title": "Lei nº 2.221, de 1 de julho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5975",
+   "first_law": "armacao-dos-buzios-lei-2026-02221",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5975/lei_ordinaria_no_2.221_de_01_de_julho_de_2026_sapl.pdf",
+     "sha256": "fc2b6c77a07cd7083240fe166a1c8d471e16fc3d511e1d6789f5a4867eec1440",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.221, de 01 de julho de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 116.745,28 e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 116.745,28 (Cento e dezesseis mil, setecentos e quarenta e cinco reais e vinte e oito centavos) na forma do Anexo I.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 1º de julho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.221, de 1 de julho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02220",
+   "short": "Lei 2220/2026",
+   "title": "Lei nº 2.220, de 30 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6000",
+   "first_law": "armacao-dos-buzios-lei-2026-02220",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6000/lei_ordinaria_no_2.220_de_30_de_junho_de_2026_sapl.pdf",
+     "sha256": "b2ab91d5b8348cc2a6d9e8a24c9a6190345a2145f34cf89f2383d088f41ccfc8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.220, de 30 de junho de 2026 Cria o Programa de Comunicação e Frequência Escolar Digital no âmbito da educação básica, por meio de identificação tecnologias de automatizada, inclusive reconhecimento facial e inteligência artificial.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica criado o Programa de Comunicação e Frequência Escolar Digital, no âmbito da rede pública municipal de ensino, com a finalidade de monitorar a frequência dos alunos e promover a comunicação em tempo real com os responsáveis legais, por meio de tecnologias digitais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A Política instituída por esta Lei tem como objetivos:\nI - ampliar a segurança dos alunos durante o período escolar;\nII - proporcionar maior tranquilidade aos pais e responsáveis;\nIII - melhorar o acompanhamento da frequência escolar;\nIV - fortalecer a integração entre escola e família;\nV - incentivar o uso de tecnologias na gestão educacional.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Município poderá implementar sistema digital de comunicação entre as unidades escolares e os responsáveis legais, com a finalidade de:\nI - informar, em tempo real, a entrada dos alunos nas unidades escolares;\nII - informar, em tempo real, a saída dos alunos ao término do período escolar;\nIII - comunicar ocorrências relevantes relacionadas à rotina escolar;\nIV - disponibilizar informações sobre frequência e permanência dos alunos.\n§ 1º O sistema poderá operar de forma automatizada, com envio imediato de notificações aos responsáveis legais.\n§ 2º Para fins de registro de presença e comunicação, o Programa poderá fazer uso de tecnologias de identificação automatizada, inclusive câmeras de reconhecimento facial, inteligência artificial ou outros mecanismos equivalentes, observadas as normas de proteção de dados pessoais.\n§ 3º O sistema poderá, conforme viabilidade técnica e observadas as normas de proteção de dados pessoais, utilizar tecnologias de identificação automatizada, inclusive por meio de reconhecimento facial ou outros mecanismos equivalentes, para registro de presença e acionamento automático de notificações aos responsáveis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O sistema de comunicação poderá operar por meio de:\nI - aplicativos digitais em dispositivos móveis;\nII - envio automático de notificações no celular dos responsáveis;\nIII - mensagens eletrônicas ou por aplicativos de comunicação;\nIV - outros meios tecnológicos equivalentes;\nV - integração com sistemas baseados em inteligência artificial e tecnologias de identificação automatizada.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A implementação da Política observará:\nI - o tratamento de dados pessoais e observará integralmente a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados - LGPD).\nII - É vedada a utilização dos dados para finalidades diversas das previstas nesta Lei.\nIII - O Município deverá garantir a segurança, confidencialidade e rastreabilidade das informações.\nIV - A utilização de tecnologias de reconhecimento facial ou inteligência artificial deverá observar os princípios da necessidade, adequação e proporcionalidade, garantindo a proteção dos dados pessoais dos alunos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O Poder Executivo poderá integrar o sistema de comunicação com outras ferramentas de gestão escolar e segurança pública.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. O Poder Executivo poderá firmar parcerias com entidades públicas ou privadas para o desenvolvimento e operação das soluções tecnológicas previstas nesta Lei, nos termos da legislação vigente.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, podendo ser suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. O Poder Executivo poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 30 de junho de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.220, de 30 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02219",
+   "short": "Lei 2219/2026",
+   "title": "Lei nº 2.219, de 26 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5974",
+   "first_law": "armacao-dos-buzios-lei-2026-02219",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5974/lei_ordinaria_no_2.219_de_26_de_junho_de_2026_sapl.pdf",
+     "sha256": "d1d3a08dcfb053e14ec707ac32702d2f1119f870b84e91cf0901a6342b190a95",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.219, de 26 de junho de 2026 Dispõe sobre a garantia de manutenção de vagas em creches e unidades escolares da Rede Municipal de Ensino.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica assegurada, no âmbito do Município de Armação dos Búzios, a manutenção da vaga em creches e unidades da rede municipal de ensino aos alunos regularmente convocados ou matriculados, observados os procedimentos administrativos estabelecidos em regramento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O cancelamento de vaga somente poderá ocorrer após três tentativas frustradas de comunicação com o responsável legal, por meios idôneos, em datas distintas.\n§ 1º Serão adotadas medidas para garantir comunicação eficaz com os responsáveis, com o registro das tentativas.\n§ 2º Serão considerados meios idôneos de comunicação com o responsável legal, entre outros:\nI - ligação telefônica;\nII - mensagem por aplicativo ou SMS;\nIII - e-mail;\nIV - notificação por meio físico.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A perda da vaga dependerá de recusa expressa do responsável ou da ausência de manifestação mesmo após as tentativas de contato previstas no artigo 2º desta Lei, nos termos da regulamentação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O Poder Executivo regulamentará esta Lei, definindo os procedimentos, prazos e formas de comunicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 26 de junho de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.219, de 26 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02218",
+   "short": "Lei 2218/2026",
+   "title": "Lei nº 2.218, de 26 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5973",
+   "first_law": "armacao-dos-buzios-lei-2026-02218",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5973/lei_ordinaria_no_2.218_de_26_de_junho_de_2026_sapl.pdf",
+     "sha256": "c4008c4622de5a4a780eead8f0871c4b6d8e94da79c364b15f91300a85aa9f79",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.218, de 26 de junho de 2026 Dispõe sobre estabelecer diretrizes para a Política Municipal de Educação e Controle da Poluição Sonora.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I DISPOSIÇÕES GERAIS\nArt. 1º. Ficam estabelecidas diretrizes para a Política Municipal de Controle da Poluição Sonora, destinadas à prevenção, monitoramento, fiscalização e mitigação da poluição sonora no âmbito do Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O programa tem como objetivos:\nI - preservar a saúde e o bem-estar da população frente aos impactos da poluição sonora;\nII - promover o mapeamento e monitoramento contínuo dos níveis de ruído urbano;\nIII - assegurar a transparência e a participação da população na gestão acústica do Município;\nIV - estimular a educação ambiental e a adoção de boas práticas acústicas pelos usuários, mediante ações de orientação, conscientização e incentivo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II CONTROLE E FISCALIZAÇÃO\nArt. 3º. Compete ao Município, no exercício do poder de polícia administrativa ambiental:\nI - fiscalizar e controlar a emissão de ruídos no âmbito de seu território;\nII - adotar as medidas necessárias à prevenção e repressão da poluição sonora;\nIII - aplicar as sanções administrativas cabíveis, sem prejuízo das responsabilidades civil e penal;\nIV - regulamentar horários, zonas e condições específicas para emissão de ruídos, observadas as normas gerais federais.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A fiscalização caberá ao órgão ambiental local integrante do SISNAMA, em cooperação, quando necessário, com a Guarda Municipal, Fiscalização de Posturas e demais órgãos competentes.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## CAPÍTULO III MONITORAMENTO\nArt. 5º. O Poder Executivo poderá implantar sistema de monitoramento sonoro ambiental, composto por:\nI - Mapeamento Acústico Municipal, atualizado periodicamente;\nII - Aplicativo municipal ou sistema digital para recebimento de denúncias georreferenciadas de infrações sonoras.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Será assegurada, na forma da regulamentação, a transparência e o acesso às informações relativas ao monitoramento da poluição sonora, garantindo-se a disponibilização de dados ao público em geral, observados os critérios técnicos, a proteção de dados e as normas aplicáveis.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Será assegurado, na forma da regulamentação, o registro das denúncias sobre poluição sonora, com a atribuição de número de protocolo e a disponibilização de informações ao interessado acerca das providências adotadas, devendo contemplar, no mínimo:\nI - número do protocolo e do processo administrativo, se houver;\nII - medidas adotadas;\nIII - resultado de vistoria, quando realizada.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O Município poderá firmar parcerias com universidades, instituições de pesquisa, Ministério Público e órgãos ambientais estaduais e federais para o apoio técnico nas ações de monitoramento acústico.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV PENALIDADES\nArt. 9º. Constitui infração administrativa a emissão de ruídos em níveis superiores aos limites estabelecidos pelos órgãos técnicos competentes, especialmente aqueles definidos em normas regulamentares e técnicas oficiais aplicáveis, sujeitando-se o infrator às penalidades previstas na Lei Municipal nº 233, de 13 de dezembro de 2000, na Lei Municipal nº 682, de 03 de outubro de 2008, e nos decretos regulamentares.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Aplicam-se integralmente as medidas restritivas e as sanções administrativas previstas na legislação ambiental vigente às emissões sonoras provenientes de imóveis e unidades residenciais que, em desacordo com as normas regulamentares aplicáveis, perturbem o sossego e o bem-estar da coletividade.\n§ 1º Quando houver identidade entre o infrator e o titular constante do cadastro imobiliário do Município, a infração será lançada em nome deste, com base nos dados constantes do cadastro do imóvel onde ocorreu a infração.\n§ 2º Quando não for possível a identificação imediata do infrator, o proprietário do imóvel será notificado para prestar informações acerca dos fatos, não implicando, por si só, sua responsabilização automática.\n§ 3º O proprietário poderá ser responsabilizado quando, comprovadamente, por ação ou omissão, tiver concorrido para a infração, especialmente quando:\nI - deixar de adotar medidas razoáveis para impedir a ocorrência reiterada da infração;\nII - permitir, de forma consciente, a utilização do imóvel em desacordo com a legislação ambiental;\nIII - violar, por ação ou omissão, as regras jurídicas de uso, gozo e proteção do meio ambiente.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As multas não quitadas no prazo regulamentar serão inscritas em dívida ativa do Município, ensejando a emissão da respectiva Certidão de Dívida Ativa e a cobrança mediante execução fiscal, nos termos da Lei Federal nº 6.830, de 22 de setembro de 1980.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO V EDUCAÇÃO AMBIENTAL\nArt. 12. O Município promoverá campanhas periódicas de conscientização sobre os efeitos nocivos da poluição sonora, abordando temas como saúde auditiva, distúrbios do sono e convivência urbana.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Os estabelecimentos que observarem os padrões e critérios de controle de emissão de ruídos previstos nesta Lei e nas normas aplicáveis poderão ser reconhecidos pelo Poder Público com a concessão do Selo de Conformidade Acústica, como forma de reconhecimento às boas práticas ambientais.\nParágrafo único O selo tem caráter informativo e educativo, podendo ser afixado em local visível no estabelecimento.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Fica instituída a Semana Municipal do Silêncio, a ser realizada anualmente, com atividades educativas em escolas, palestras comunitárias e eventos culturais.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "## CAPÍTULO VI DISPOSIÇÕES FINAIS\nArt. 15. Caberá ao Poder Executivo regulamentar a execução desta Lei.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 26 de junho de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.218, de 26 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02217",
+   "short": "Lei 2217/2026",
+   "title": "Lei nº 2.217, de 26 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5972",
+   "first_law": "armacao-dos-buzios-lei-2026-02217",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5972/lei_ordinaria_no_2.217_de_26_de_junho_de_2026_sapl.pdf",
+     "sha256": "dc02b35bdad78b6653edc4a412742e5b904a5901aacbb8af6921e7facf0474b1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.217, de 26 de junho de 2026 Dispõe sobre a criação do Posto de Saúde Animal Municipal em estrutura modular (contêiner) no Município de Armação dos Búzios.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído no Município de Armação dos Búzios o Posto de Saúde Animal Municipal destinado ao atendimento veterinário básico e gratuito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Posto de Saúde Animal poderá ser implantado em estrutura modular do tipo contêiner adaptado, garantindo rapidez na implantação e redução de custos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O posto poderá oferecer os seguintes serviços: consultas veterinárias, vacinação, vermifugação, castração, primeiros socorros veterinários e orientação sobre guarda responsável.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Terão prioridade no atendimento animais pertencentes a famílias de baixa renda, animais comunitários e animais resgatados por órgãos públicos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Município poderá firmar convênios com universidades, clínicas veterinárias e organizações de proteção animal.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O Poder Executivo regulamentará esta Lei no prazo de 90 dias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 26 de junho de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.217, de 26 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02216",
+   "short": "Lei 2216/2026",
+   "title": "Lei nº 2.216, de 26 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5971",
+   "first_law": "armacao-dos-buzios-lei-2026-02216",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5971/lei_ordinaria_no_2.216_de_26_de_junho_de_2026_sapl.pdf",
+     "sha256": "e5cb3aba9b7625f87ebdb8b05733e535559d25ca900d1689b457cff6859fe9e5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.216, de 26 de junho de 2026 Institui, no âmbito do Município de Armação dos Búzios, o Programa Municipal Casa das Mães Atípicas, destinado ao acolhimento, apoio e fortalecimento das mulheres cuidadoras de pessoas com deficiência ou necessidades especiais, e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, no âmbito do Município de Armação dos Búzios, o Programa Municipal Casa das Mães Atípicas, com a finalidade de promover ações integradas de acolhimento, apoio emocional, capacitação e fortalecimento de mulheres responsáveis pelo cuidado de pessoas com deficiência ou necessidades especiais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Para fins desta Lei, consideram-se mães atípicas aquelas que exercem função de cuidado integral de filhos ou dependentes com deficiência física, intelectual, sensorial ou múltipla, ou com transtornos do neurodesenvolvimento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Poderão ser objetivos do Programa Casa das Mães Atípicas:\nI - oferecer espaço de convivência, escuta ativa e apoio psicológico e social;\nII - promover oficinas terapêuticas, atividades físicas adaptadas e grupos de apoio;\nIII - fomentar ações de qualificação profissional e inclusão produtiva das mães cuidadoras;\nIV - proporcionar descanso e lazer assistido, visando à saúde mental e emocional;\nV - articular políticas intersetoriais nas áreas de saúde, assistência social, educação e cultura;\nVI - assegurar a promoção da dignidade, autonomia e inclusão social das famílias atendidas.\nVII - promover orientação psicossocial continuada às mães atípicas, visando ao fortalecimento emocional, social e familiar, conforme as diretrizes do programa nacional \"Cuidando de Quem Cuida\".\nVIII - oferecer suporte complementar ao cuidado da pessoa com deficiência ou necessidades especiais, quando necessário para que a mãe realize consultas, exames, terapias, capacitações do programa ou atividades indispensáveis à vida cotidiana.\nIX - estimular redes de apoio e trocas de experiências entre mães atípicas, por meio de encontros periódicos, rodas de conversa e atividades mediadas por equipe técnica especializada.\nX - elaborar diagnóstico inicial e atualizado do perfil socioeconômico das mães atípicas atendidas, identificando necessidades, barreiras e prioridades, para fins de planejamento das ações do Programa.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A Casa das Mães Atípicas poderá funcionar como equipamento público integrante da Rede Municipal de Assistência Social, vinculada à Secretaria Competente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Poder Executivo poderá regulamentar, no que couber, a estrutura física e a equipe profissional que comporão o programa.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O Programa poderá observar as seguintes diretrizes:\nI - respeito aos princípios da dignidade humana, inclusão e equidade de gênero;\nII - atendimento gratuito, universal e sem discriminação;\nIII - prioridade às famílias em situação de vulnerabilidade social;\nIV - articulação intersetorial entre políticas públicas;\nV - estímulo à participação social e controle democrático;\nVI - promoção de apoio relacional, entendido como a troca de experiências entre mães atípicas mediada por profissionais capacitados, conforme diretriz prevista no programa nacional correlato.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. O Poder Executivo poderá firmar convênios, parcerias e termos de cooperação com entidades públicas e privadas, organizações da sociedade civil e universidades, para a execução de atividades de apoio e atendimento às beneficiárias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário, podendo ser utilizadas:\nI - verbas oriundas de convênios e parcerias;\nII - recursos dos Fundos Municipais de Assistência Social, da Pessoa com Deficiência e da Mulher;\nIII - doações de pessoas físicas e jurídicas;\nIV - transferências voluntárias da União e do Estado.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. A gestão do Programa poderá elaborar relatório anual de atividades, com indicadores de atendimento, impacto social e eficiência, encaminhado à Câmara Municipal e aos Conselhos de Políticas Públicas afins.\nParágrafo único O relatório anual poderá incluir análise dos dados coletados no diagnóstico socioeconômico previsto no art. 3º, X, garantindo planejamento contínuo das ações.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica o Executivo autorizado a denominar a primeira unidade da Casa das Mães Atípicas em homenagem a mulher ou grupo representativo que tenha contribuído para a causa da inclusão e do cuidado.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 26 de junho de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.216, de 26 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02213",
+   "short": "Lei 2213/2026",
+   "title": "Lei nº 2.213, de 10 de junho de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5944",
+   "first_law": "armacao-dos-buzios-lei-2026-02213",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5944/lei_ordinaria_no_2.213_de_10_de_junho_de_2026_sapl.pdf",
+     "sha256": "6058850e5de38c58000ea95754b7415d27c1eed4474126c56e6a11441e2d9793",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.213, de 10 de junho de 2026 Institui o Plano Municipal de Cultura de Armação dos Búzios para o Decênio 2025-2035.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído o PLANO MUNICIPAL DE CULTURA DE ARMAÇÃO DOS BÚZIOS - PMC, conforme disposto no Anexo I desta Lei, como instrumento de planejamento e gestão das políticas culturais do Município até 2035.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Plano Municipal de Cultura (PMC) é um instrumento de planejamento estratégico que organiza, regula e norteia a execução da Política Municipal de Cultura na perspectiva do Sistema Municipal de Cultura - SMC, e deverá ser renovado a cada 10 (dez) anos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Os objetivos do Plano Municipal de Cultura (PMC) são:\nI - garantir o acesso à cultura, promovendo a democratização dos bens e serviços culturais;\nII - preservar e valorizar o patrimônio cultural material e imaterial de Búzios;\nIII - fomentar a produção artística local, com apoio a artistas, grupos culturais e criadores independentes;\nIV - integrar cultura e turismo, potencializando a economia criativa;\nV - promover a diversidade cultural, com ênfase nas manifestações tradicionais, indígenas, afro-brasileiras e contemporâneas;\nVI - fortalecer o Sistema Municipal de Cultura, em articulação com os sistemas estadual e nacional;\nVII - ampliar os recursos financeiros para a cultura, assegurando dotação orçamentária adequada;\nVIII - estimular a participação social por meio de conselhos, conferências e fóruns de cultura.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A execução do Plano Municipal de Cultura (PMC) e o cumprimento de suas metas serão objeto de monitoramento contínuo e avaliações periódicas, no máximo a cada 2 (dois) anos, pelas seguintes instâncias:\nI - Conselho Municipal de Política Cultural - CMPC;\nII - Conferência Municipal de Cultura.\n§ 1º Compete, ainda, às instâncias referidas no caput:\nI - divulgar, por meios impressos e/ou eletrônicos, os resultados do monitoramento e das avaliações;\nII - analisar e propor políticas públicas ao Poder Executivo Municipal, para assegurar a implementação das estratégias e o cumprimento das metas;\n§ 2º A revisão do Plano Municipal de Cultura (PMC) será realizada a cada 2 (dois) anos, durante o período de sua vigência, com o objetivo de avaliar o progresso no cumprimento das estratégias e diretrizes estabelecidas, o que não comprometerá a continuidade das ações e execuções já em andamento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A implementação do Plano Municipal de Cultura de Armação dos Búzios (PMC-BÚZIOS) será coordenada pela Secretaria Municipal de Cultura e Patrimônio Histórico, órgão gestor do Sistema Municipal de Cultura, em conformidade com as deliberações da Conferência Municipal de Cultura (CMC) e do Conselho Municipal de Política Cultural (CMPC), devendo contemplar os seguintes elementos:\nI - história local e contexto cultural de Armação dos Búzios;\nII - diagnóstico do desenvolvimento cultural;\nIII - diretrizes e estratégias;\nIV - objetivos gerais e específicos;\nV - estratégias, metas e ações;\nVI - prazos de execução, resultados e impactos esperados;\nVII - recursos materiais, humanos e financeiros disponíveis e necessários;\nVIII - mecanismos e fontes de financiamento;\nIX - indicadores de monitoramento e avaliação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. As Conferências Municipais de Cultura serão o principal instrumento para avaliação e atualização do Plano Municipal de Cultura (PMC) e serão realizadas a cada 2 (dois) anos com esse fim.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. O Município atuará em regime de colaboração com a União e o Estado do Rio de Janeiro, visando o alcance das metas e a implementação das estratégias e diretrizes do Plano Municipal de Cultura (PMC).\n§ 1º Caberá aos gestores públicos municipais a adoção das medidas governamentais necessárias ao alcance das diretrizes e estratégias previstas no Plano Municipal de Cultura (PMC), inclusive a articulação com os demais entes federados, a fim de materializar o regime de colaboração e promover o desenvolvimento da cultura buziana.\n§ 2º O fortalecimento do regime de colaboração entre o Estado e o Município incluirá a instituição de instâncias permanentes de negociação, cooperação e pactuação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O Plano Plurianual - PPA, e os orçamentos anuais do Município serão formulados de maneira a assegurar a consignação de dotações orçamentárias compatíveis para o cumprimento das diretrizes e estratégias do Plano Municipal de Cultura (PMC), a fim de viabilizar sua plena execução.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. O Poder Executivo encaminhará à Câmara Municipal, até o final do 1º (primeiro) Trimestre do 9.º (nono) ano de vigência deste Plano, o projeto de lei que instituirá o novo Plano Municipal de Cultura, com validade para os 10 (dez) anos subsequentes.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 10 de junho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.213, de 10 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02210",
+   "short": "Lei 2210/2026",
+   "title": "Lei nº 2.210, de 22 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5936",
+   "first_law": "armacao-dos-buzios-lei-2026-02210",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5936/lei_ordinaria_no_2.210_de_22_de_maio_de_2026_sapl.pdf",
+     "sha256": "111fdeb2778ffff8811cf1c34ef683a79a189576c5eaf92dd7f71af952555f94",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.210, de 22 de maio de 2026 Dispõe sobre a coleta, o transporte, o tratamento e a destinação dos resíduos sólidos e a disposição final dos rejeitos provenientes dos grandes geradores no Município de Armação dos Búzios e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES\nArt. 1º. São considerados grandes geradores, para efeitos desta lei:\nI - os proprietários, possuidores ou titulares de estabelecimentos públicos, institucionais, de prestação de serviços, comerciais e industriais, terminais rodoviários entre outros, geradores de resíduos sólidos caracterizados como resíduos da Classe 2, pela NBR 10.004:2004, da Associação Brasileira de Normas Técnicas - ABNT, exceto residenciais, cujo volume de resíduos sólidos gerados seja superior a 180 (cento e oitenta) litros diários, conforme artigo 203, parágrafo único do Código Tributário de Armação dos Búzios;\nII - os proprietários, possuidores ou titulares de estabelecimentos públicos, institucionais, de prestação de serviços, comerciais e industriais, entre outros, geradores de resíduos sólidos de entulhos, terra e materiais de construção, com massa superior a 50 (cinquenta) quilogramas diários;\nIII - condomínios de edifícios não residenciais ou de uso misto, em que a soma dos resíduos sólidos \"tipo domiciliar\" (Classe 2, de acordo com a Associação Brasileira de Normas Técnicas), gerados pelos condôminos, atinja o volume médio diário igual ou superior a 1.000 (mil) litros; e\nIV - é considerado grande gerador aquele que tiver uma geração de resíduos sólidos indiferenciados (orgânicos e rejeitos), em volume superior a 100 (cem) litros por dia.\n§ 1º O disposto no caput deste artigo não se aplica aos produtores de resíduos sépticos, sépticos especiais e especiais perigosos, assim definidos em legislação específica, bem como aos produtores de resíduos provenientes de aeroportos, portos, estaleiros e terminais rodoviários, qualquer que seja o seu volume ou o seu peso em qualquer dos casos.\n§ 2º O recolhimento dos resíduos provenientes dos grandes geradores observará as normas e condições estabelecidas em regulamento próprio do Poder Executivo, que poderá disciplinar a forma de execução do serviço, as responsabilidades dos geradores e demais envolvidos, bem como os critérios para incidência ou eventual dispensa da Taxa de Coleta, Remoção e Destinação de Resíduos Sólidos Domiciliares - Taxa de Lixo.\n§ 3º Os geradores reconhecidos como Entidades Filantrópicas e declaradas de Utilidade Pública, sem fins lucrativos, sem remunerar dirigentes e assemelhados, localizados no Município de Armação dos Búzios, estarão dispensados das obrigações desta Lei.\n§ 4º O disposto no Inciso II será regulamentado no Plano Integrado de Gerenciamento de Resíduos da Construção Civil, estabelecido no Art. 5º da CONAMA nº 307/2002.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os grandes geradores ficam obrigados a cadastrar-se junto ao órgão ambiental competente em até 30 dias após a publicação desta Lei.\n§ 1º O Cadastro de grande gerador descrito no caput deste artigo deverá ser solicitado ao órgão ambiental competente, através do formulário constante no Anexo I, e terá validade de 03 anos para o Inciso I e II do Art. 1º.\n§ 2º Do cadastro constará declaração de volume e massa mensal de resíduos sólidos produzidos pelo estabelecimento, o operador contratado para a realização dos serviços de coleta e a destinação final dos resíduos sólidos, além de outros elementos necessários ao controle e fiscalização pelo Município, conforme disposto no Anexo II.\n§ 3º O Cadastro de condomínios, descrito no Inciso III do Art. 1º, deverá ser solicitado ao órgão ambiental competente, através do formulário constante no Anexo III e, terá validade de 01 ano.\n§ 4º Havendo alteração na quantidade de resíduos sólidos produzidos, o estabelecimento gerador atualizará seu cadastro junto ao órgão ambiental competente em 30 (trinta) dias, contados da alteração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Os grandes geradores deverão contratar os autorizatários dos serviços prestados em regime privado de que trata esta Lei para a execução dos serviços de coleta, transporte, tratamento e destinação final dos resíduos referidos na presente Lei, mantendo via original do contrato à disposição da fiscalização.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. É vedado aos grandes geradores a disposição dos resíduos nos locais próprios da coleta de resíduos domiciliares ou de serviços de saúde, bem como em qualquer área pública, incluindo passeios e sistema viário, sob pena de multa.\nParágrafo único No caso de descumprimento do disposto no caput deste artigo, sem prejuízo da multa nele prevista, o grande gerador arcará com os custos e ônus decorrentes da coleta, transporte, tratamento e destinação final de seus resíduos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Os grandes geradores deverão manter em seu poder registros e comprovantes de cada coleta feita, da quantidade coletada e da destinação dada aos resíduos.\nParágrafo único Os registros e comprovantes de que trata o \"caput\" deste artigo deverão ser apresentados à fiscalização quando solicitados, sob pena de multa.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Aplicam-se aos geradores de resíduos sólidos caracterizados como resíduos da Classe 1, pela NBR 10.004:2004, da Associação Brasileira de Normas Técnicas - ABNT, em qualquer quantidade, excetuados os resíduos sólidos de serviços de saúde, as disposições constantes da presente Lei, observada a legislação e regulamentação específicas sobre a matéria.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Todos os geradores deverão ter como objetivo prioritário a não geração de resíduos e, secundariamente, a redução, a separação, a reciclagem, a compostagem e a destinação final adequada, prioritariamente destinando os resíduos gerados novamente ao ciclo produtivo, através da reciclagem, reuso, dentro dos padrões estabelecidos pela legislação e normas técnicas.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Os resíduos recicláveis deverão ser encaminhados, prioritariamente, para associações e cooperativas de catadores de materiais reutilizáveis e recicláveis, formadas por pessoas físicas de baixa renda, tal como definidas na Lei Federal nº 12.305, de 2 de agosto de 2010, na Lei Estadual nº 4.191, de 30 de setembro de 2003, e na Resolução Conjunta SEAS/INEA nº 43 de 29 de abril de 2021, devidamente cadastradas junto ao órgão ambiental competente.\n§ 1º Para ter direito à prioridade a que faz menção esta Lei, cooperativas e associações de catadores de que trata o caput deste artigo, deverão estar cadastradas no órgão ambiental competente e atender às disposições de que trata a Resolução Conjunta SEAS/INEA nº 43, de 29 de abril de 2021.\n§ 2º Excetuam-se dos resíduos recicláveis, de que trata o caput deste artigo, os resíduos de saúde, construção civil, perigosos em geral e industriais que serão regulados em norma específica.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Sempre que pretender destinar seus resíduos recicláveis, os grandes geradores deverão contatar, ao menos, 03 (três) das associações e cooperativas cadastradas no órgão ambiental competente, informando-lhes:\nI - a natureza do resíduo;\nII - a quantidade do resíduo;\nIII - o prazo de resposta, que não poderá ser inferior a 02 (dois) dias úteis; e\nIV - se for o caso:\na) o preço mínimo, quando se tratar de leilão;\nb) o preço exigido, quando a proposta tiver preço certo.\n§ 1º Se a proposta tiver preço mínimo, as respostas eventualmente apresentadas pelas cooperativas ou associações gozarão de prioridade em caso de empate.\n§ 2º Se a proposta tiver preço certo e nenhuma associação ou cooperativa apresentar resposta tempestiva, os grandes geradores poderão destinar seus resíduos recicláveis livremente no mercado a quem se dispuser a adquiri-los.\n§ 3º O parágrafo anterior também se aplica aos casos em que a proposta seja de doação.\n§ 4º Sempre que os resíduos recicláveis não tiverem valor econômico ou forem de valor irrisório e os grandes geradores se dispuserem a pagar por sua destinação final ambientalmente adequada, as cooperativas ou associações contatadas gozarão de prioridade em caso de empate do menor preço.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Os grandes geradores, para fins de controle interno, podem exigir das cooperativas ou associações contatadas a apresentação de documentos adicionais aos previstos no artigo 5º da Resolução Conjunta SEAS/INEAS nº 43, de 29 de abril de 2021, desde que estes sejam razoáveis.\nParágrafo único Caso as associações ou cooperativas contatadas não apresentem os documentos adicionais exigidos, os grandes geradores deverão comprovar, para poderem destinar seus resíduos recicláveis livremente no mercado, que contataram, ao menos, 06 (seis) das associações e cooperativas cadastradas.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. A destinação prioritária de que trata esta Lei não obsta o direito de os grandes geradores desistirem da alienação, em busca de melhor mercado, desde que:\nI - as respostas tenham sido apresentadas fora do prazo;\nII - não tendo prazo a proposta, haja decorrido tempo suficiente para a apresentação de respostas;\nIII - antes ou simultaneamente às respostas, chegue ao conhecimento das cooperativas e associações cadastradas a retratação do proponente; ou\nIV - não tendo preço certo a proposta, as respostas apresentadas não interessem aos grandes geradores.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO II DOS RESÍDUOS SÓLIDOS DOS GRANDES GERADORES\nArt. 12. A gestão dos Resíduos Sólidos Orgânicos, bem como os gerados em função dos serviços de remoções emergenciais, poda, corte ou destopo para eliminação da interferência com a rede elétrica, é de responsabilidade exclusiva dos seus geradores.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. A remoção dos resíduos sólidos orgânicos é de competência exclusiva dos geradores e será efetuada pelo próprio gerador, por empresas especializadas contratadas ou pelo órgão ou entidade municipal competente mediante acordos específicos.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Os grandes geradores de resíduos sólidos orgânicos ficam obrigados a cadastrar-se junto ao órgão ambiental competente em até 30 dias após a publicação desta Lei.\n§ 1º O Cadastro de grande gerador descrito no caput deste artigo deverá ser solicitado ao órgão ambiental competente, através do formulário constante no Anexo I, e terá validade de 03 anos.\n§ 2º Os grandes geradores são integralmente responsáveis pelos resíduos sólidos orgânicos decorrentes das suas atividades, devendo suportar todos os ônus decorrentes da segregação, coleta/transporte, compostagem e destinação final adequada, não podendo, sob qualquer forma, transferi-los à coletividade.\n§ 3º Os geradores devem utilizar equipamentos de coleta destinados a resíduos orgânicos, para a disposição exclusivamente destes resíduos, respeitando a capacidade dos equipamentos, em conformidade com as determinações do órgão municipal responsável.\n§ 4º Os geradores deverão utilizar exclusivamente os serviços de remoção de transportadores cadastrados junto ao Poder Público Municipal.\n§ 5º O Grande Gerador deverá proceder à separação e identificação dos resíduos no local de origem, de maneira a permitir a compostagem do orgânico e a minimização da geração de rejeitos, obedecendo à classificação preconizada pela legislação vigente sobre a matéria e originária dos órgãos federais, estaduais e municipais.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "## CAPÍTULO III DOS PLANOS DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS\nArt. 15. É responsável pela elaboração e apresentação do respectivo Plano de Gerenciamento de Resíduos Sólidos, o Grande Gerador, que deverá contemplar, no mínimo, as seguintes etapas:\nI - caracterização: nesta etapa, o gerador deverá identificar e quantificar todos os tipos de resíduos produzidos;\nII - separação: deverá ser realizada, preferencialmente, pelo gerador na origem, ou ser realizada nas áreas de destinação licenciadas para essa finalidade;\nIII - acondicionamento: o gerador deve garantir o confinamento dos resíduos, após a geração até a etapa de transporte, assegurando, em todos os casos, as condições de reciclagem e compostagem;\nIV - transporte: deverá ser realizado em conformidade com as etapas anteriores e de acordo com as normas técnicas vigentes para o transporte de resíduos; e\nV - destinação: deverá ser dada a estabelecimento devidamente licenciado e capacitado para realizar o serviço de tratamento e compostagem dos resíduos orgânicos, e destinação final dos rejeitos, conforme tecnologia disponível.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Os Planos de Gerenciamento de Resíduos Sólidos devem ser assinados por profissional capacitado, bem como devem possuir responsável igualmente habilitado, que deverá ser incumbido da sua execução e efetiva implantação.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Os Planos de Gerenciamento de Resíduos Sólidos de empreendimentos e atividades, públicos ou privados, devem ser apresentados ao Município, devendo ser submetido à aprovação pelo órgão ambiental competente e se integrará à análise para a obtenção dos alvarás de funcionamento e licenciamento ambiental, sendo condicionante para a concessão destes para a atividade, inclusive, em caso de renovação por ampliação dos serviços.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. A emissão de alvará de funcionamento, pelo órgão municipal competente, para os empreendimentos caracterizados como grandes geradores deve estar condicionada à apresentação de certidão emitida pelo órgão ambiental atestando o integral cumprimento do Plano de Gerenciamento de Resíduos, quanto à correta triagem, transporte e destinação dos resíduos gerados.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. A implementação do Plano de Gerenciamento de Resíduos pelos grandes geradores pode ser realizada mediante a contratação de serviços de terceiros, mantida a responsabilidade do gerador, em relação à destinação final dos resíduos.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Os geradores de resíduos orgânicos, submetidos a contratos com o Poder Público, devem comprovar, durante a execução e no término das atividades, o cumprimento das responsabilidades definidas no Plano de Gerenciamento de Resíduos Sólidos.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "## CAPÍTULO IV DA DISCIPLINA DOS TRANSPORTADORES\nArt. 21. Os transportadores de resíduos sólidos deverão cadastrar-se junto ao órgão ambiental competente.\n§ 1º O cadastramento deverá ser realizado por ocasião da liberação do primeiro Alvará de Funcionamento da atividade, através do preenchimento dos formulários constantes nos Anexos VI, VII e VIII, e deverá ser atualizado na renovação do alvará, ou sempre que houver alterações nos dados do cadastro.\n§ 2º As empresas que já possuem Alvará de Funcionamento, deverão atender ao disposto no caput deste artigo, dentro do prazo de 30 (trinta) dias contados a partir da data de publicação desta Lei.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Os transportadores deverão fornecer informações ao Poder Público Municipal, sempre que determinado, acerca dos geradores atendidos, volumes coletados e sua destinação.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "## CAPÍTULO V DA DISCIPLINA DOS RECEPTORES\nArt. 23. Os receptores de resíduos devem estar devidamente licenciados e cadastrados junto ao órgão ambiental competente.\nParágrafo único Os receptores de resíduos e rejeitos deverão informar ao órgão ambiental competente os montantes de resíduos recebidos, conjuntamente à identificação de cada gerador.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Todos os Geradores, Transportadores, Receptores e órgãos públicos deverão se enquadrar nos dispositivos desta Lei, no prazo máximo de 30 (trinta) dias, contados a partir da data de sua publicação.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. Caberá ao órgão ambiental municipal fiscalizar o cumprimento das normas estabelecidas nesta Lei.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. A não observância ao disposto nesta Lei, total ou parcialmente, voluntária ou não, sujeitará o infrator, sem prejuízo das demais penalidades aplicáveis, ao que segue:\nI - advertência; e\nII - multa nos seguintes valores:\na) R$ 1.000,00 (mil reais), quando se tratar de estabelecimento comercial e industrial de pequeno porte;\nb) R$ 2.000,00 (dois mil reais), quando se tratar de estabelecimento comercial e industrial de médio porte;\nc) R$ 5.000,00 (cinco mil reais), quando se tratar de estabelecimento comercial e industrial de grande porte.\n§ 1º Os valores em reais estipulados no inciso II serão reajustados de acordo com os índices e períodos aplicados aos reajustes dos créditos tributários do Município de Armação dos Búzios.\n§ 2º No caso de reincidência, serão aplicadas as seguintes penalidades:\na) na primeira reincidência, o valor da multa será dobrado;\nb) na segunda reincidência, o valor da multa será triplicado;\nc) na terceira reincidência, será suspenso o alvará de funcionamento; e\nd) na quarta reincidência, será cassado o alvará de funcionamento.\n§ 3º A aplicação das sanções previstas nesta Lei não exime o infrator das demais sanções e penalidades civis e/ou criminais, previstas na legislação em vigor.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. O infrator será notificado para a ciência da infração:\nI - pessoalmente, com o visto do recebimento;\nII - pelo correio, via Aviso de Recebimento - AR;\nIII - por edital, se estiver em local incerto ou não sabido; e\nIV - por e-mail rastreável ou A.R. on-line, que deverá conter:\na) título explicando que se trata de uma \"Notificação Extrajudicial\";\nb) nome completo da pessoa física ou jurídica que está notificando e da notificada;\nc) motivo pelo qual a física ou jurídica está sendo notificada;\nd) endereço da física ou jurídica notificada;\ne) data e local da notificação realizada; e\nf) assinatura do notificante do documento.\n§ 1º Se o infrator for notificado pessoalmente e se recusar a exarar ciência, deverá esta circunstância ser mencionada expressamente pela autoridade que efetuou a notificação.\n§ 2º O edital referido no inciso III, deste artigo será publicado no Boletim Informativo Oficial do Município de Armação dos Búzios e em jornal de circulação local, considerando-se efetivada a notificação 05 (cinco) dias após a publicação.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. No caso da infringência por dano ambiental, onde não seja possível a localização de imediato do autor do dano, fica autorizado o Município a executar a recuperação da área, lançando futuramente o custo desta operação ao infrator.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. Será assegurado o direito à ampla defesa e ao contraditório do autuado, através de processo administrativo, conforme regulamentação específica, no prazo máximo de 20 (vinte) dias, contados a partir do recebimento do auto de infração, endereçado ao titular do órgão ambiental do Município.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30. No caso de decisão condenatória terá direito, o autuado, a recorrer da decisão, através de processo administrativo, num prazo máximo de 20 (vinte) dias, contados a partir da ciência da condenação.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31. Os recursos interpostos das decisões não definitivas terão efeito suspensivo relativo ao pagamento da penalidade, sem prejuízo da aplicação de novas autuações por reincidência ou continuidade do dano.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32. Exauridos os recursos administrativos, o infrator terá o prazo de 05 (cinco) dias para efetuar o recolhimento do valor da multa, sob pena de inscrição em dívida ativa.\n§ 1º A critério do órgão ambiental competente as multas poderão ter a sua exigibilidade suspensa, mediante Termo de Compromisso, no qual o infrator assume o compromisso de corrigir e interromper a infração.\n§ 2º Cumpridas as obrigações assumidas pelo infrator, a multa poderá ter uma redução de até 90% (noventa) por cento do seu valor original, a critério do titular do órgão ambiental competente.\n§ 3º Perderá o direito aos benefícios da redução dos valores da multa o infrator que não efetuar o pagamento respectivo no prazo legal, sendo inscritos em dívida ativa os valores integrais do auto de infração.\nDisposições Finais\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33. Faz parte integrante desta Lei os seguintes anexos:\nI - requerimento de grande gerador;\nII - cadastro de grande gerador;\nIII - requerimento de grande gerador - condomínio;\nIV - cadastro de grande gerador condomínio;\nV - condomínio - declaração de destinação para cooperativa;\nVI - requerimento de cadastro de transportador;\nVII - cadastro de transportadores de resíduos sólidos;\nVIII - declaração de destino final transportadoras;\nIX - requerimento de cadastro de área de destinação;\nX - cadastro de receptores de resíduos sólidos;\nXI - cadastro de receptores de resíduos sólidos - cooperativas-associações;\nXII - requerimento de cadastro de cooperativa e associação; e\nXIII - declaração de recebimento cooperativa.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 28 de abril de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.210, de 22 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02209",
+   "short": "Lei 2209/2026",
+   "title": "Lei nº 2.209, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5935",
+   "first_law": "armacao-dos-buzios-lei-2026-02209",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5935/lei_ordinaria_no_2.209_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "b52c697c2e0555dd5b5ef6ee38ea9578cde65d9a047e8531eb07d5efb629d23b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.209, de 18 de maio de 2026 Dispõe sobre a inclusão de carne de peixe no cardápio da merenda escolar na rede pública de ensino municipal em Armação dos Búzios/RJ, e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O Poder Executivo, atendendo as necessidades nutricionais dos alunos, conforme diretrizes do Programa Nacional de Alimentação Escolar (PNAE), deve incluir no cardápio da alimentação escolar da rede pública municipal de ensino, ao menos uma vez por semana, a carne de peixe e seus derivados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Compete à Secretaria Municipal de Educação, em conjunto com a equipe de nutricionistas responsáveis pela elaboração dos cardápios escolares:\nI - Planejar a introdução adequada da carne de peixe nos cardápios, considerando variedade e qualidade nutricional;\nII - Oferecer capacitação aos profissionais da merenda escolar sobre o manuseio e preparo adequado do pescado;\nIII - Realizar ações de educação alimentar e nutricional com os alunos, abordando os benefícios da boa alimentação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A aquisição da carne de peixe obedecerá às regras estabelecidas pela legislação vigente, em especial a Lei Federal nº 11.947/2009 e as resoluções do Fundo Nacional de Desenvolvimento da Educação (FNDE), priorizando-se a compra direta da agricultura familiar, pescadores artesanais e produtores locais, quando possível, respeitando-se as normas sanitárias vigentes.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O Poder Executivo regulamentará, no que couber, a presente lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta Lei entra em vigor na data da sua publicação.\nArmação dos Búzios, 18 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.209, de 18 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02208",
+   "short": "Lei 2208/2026",
+   "title": "Lei nº 2.208, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5934",
+   "first_law": "armacao-dos-buzios-lei-2026-02208",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5934/lei_ordinaria_no_2.208_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "a8a318ffc12c0c4b38df9e818b64d6141bd10b44743f0fcfe6b83d272a3486cb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.208, de 18 de maio de 2026 Dispõe sobre criar o Campeonato Oficial de Futebol Amador do Município de Armação dos Búzios, e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a instituir o Campeonato Oficial de Futebol Amador do Município de Armação dos Búzios, podendo ser realizado anualmente, sob a organização dos órgãos municipais competentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Fica vedada a participação de atletas profissionais em atividade no referido campeonato, exceto aqueles que comprovarem, documentalmente, sua desvinculação da respectiva federação profissional de futebol.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Fica o Poder Executivo, através da Secretaria Municipal de Lazer e do Esporte ou órgão designado, autorizado a regulamentar, elaborar, organizar e realizar o campeonato, podendo para tanto:\nI - firmar convênios, parcerias e contratos com entidades públicas ou privadas, empresas e instituições interessadas em apoiar ou patrocinar\nII - definir, juntamente com os representantes das equipes participantes, as normas, regulamentos e critérios para a realização da competição, por meio de reuniões prévias.\nParágrafo único A participação dos representantes das equipes, masculinas e femininas, nas discussões sobre normas e regras da competição, é condição essencial para assegurar a transparência e a legitimidade do processo organizativo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Fica o Poder Executivo autorizado, por meio da Secretaria Municipal de Lazer e do Esporte, a proceder à contratação de serviços de arbitragem, bem como de outros serviços necessários à realização dos jogos, observada a legislação vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas, se necessário, respeitando-se os limites da Lei de Responsabilidade Fiscal e das normas orçamentárias do Município.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário. Armação dos Búzios, 18 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.208, de 18 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02207",
+   "short": "Lei 2207/2026",
+   "title": "Lei nº 2.207, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5933",
+   "first_law": "armacao-dos-buzios-lei-2026-02207",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5933/lei_ordinaria_no_2.207_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "37db12a0b5d1aabf7a769348722bc3b3ec95b27c0abf22797adae9c4e66f15d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.207, de 18 de maio de 2026 Fica facultado o Poder Executivo Municipal a instituir o Programa Municipal de Pontos Públicos de Hidratação com Água Potável Gratuita, como instrumento de promoção da saúde preventiva, sustentabilidade ambiental e qualificação do espaço urbano, e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal facultado a instituir o Programa Municipal de Pontos Públicos de Hidratação com Água Potável Gratuita, destinado à oferta de água potável em espaços públicos estratégicos do Município de Armação dos Búzios.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Programa tem como diretrizes:\nI - a prevenção de agravos à saúde relacionados à desidratação e ao estresse térmico;\nII - a promoção de uma cidades mais resiliente às mudanças climáticas;\nIII - o incentivo à economia circular e à redução de resíduos plásticos descartáveis;\nIV - a qualificação ambiental e funcional dos espaços públicos;\nV - a valorização do Município como destino turístico sustentável.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Constituem objetivos do Programa:\nI - disponibilizar acesso gratuito e seguro à água potável à população;\nII - estimular o uso de recipientes reutilizáveis;\nIII - reduzir a geração de resíduos sólidos urbanos;\nIV - integrar ações de saúde, meio ambiente, turismo e planejamento urbano;\nV - promover educação ambiental e hábitos saudáveis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Os pontos públicos de hidratação poderão ser implantados, preferencialmente, em locais que atendam a um ou mais dos seguintes critérios:\nI - elevada circulação de pessoas;\nII - exposição prolongada ao sol ou ao calor;\nIII - relevância turística, cultural ou recreativa;\nIV - proximidade de equipamentos públicos ou rotas de mobilidade ativa.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A execução do Programa poderá ocorrer por meio de:\nI - parcerias com a iniciativa privada;\nII - termos de cooperação, acordos de parceria ou instrumentos congêneres;\nIII - cooperação com concessionárias de serviços públicos, cooperativas, instituições financeiras ou entidades privadas com atuação socioambiental.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. As parcerias firmadas deverão observar os princípios da legalidade, impessoalidade, moralidade, publicidade, eficiência e sustentabilidade, vedada qualquer forma de promoção pessoal ou direcionamento indevido.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Os equipamentos deverão atender, no mínimo:\nI - às normas sanitárias e de vigilância em saúde;\nII - aos padrões de potabilidade da água;\nIII - a critérios de acessibilidade universal;\nIV - a parâmetros de segurança, durabilidade e baixo impacto ambiental.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O Programa poderá prever ações complementares de educação ambiental, comunicação institucional e conscientização sobre o uso responsável da água.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. A coordenação do Programa poderá ser exercida pelo órgão municipal competente, com apoio das Secretarias afins, conforme definido em regulamento.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Poder Executivo poderá estabelecer indicadores de acompanhamento e avaliação do Programa, incluindo, quando possível, dados relativos à redução de resíduos plásticos e ao alcance populacional.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, quando houver, observada a disponibilidade financeira do Município.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 18 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.207, de 18 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02206",
+   "short": "Lei 2206/2026",
+   "title": "Lei nº 2.206, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5932",
+   "first_law": "armacao-dos-buzios-lei-2026-02206",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5932/lei_ordinaria_no_2.206_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "e01fb96d5020dce5fcc513e4a2fb3a3b8e7ff89d9d317968a0f841922356a754",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.206, de 18 de maio de 2026 Dispõe sobre a proibição da instalação de hidrômetros em calçadas, passeios públicos e áreas externas dos imóveis sem autorização expressa do morador ou proprietário, no âmbito do Município de Armação dos Búzios, e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica proibida a instalação, por parte das concessionárias responsáveis pelo abastecimento de água, de hidrômetros, caixas de medição ou quaisquer equipamentos acessórios em calçadas, passeios públicos, muros externos ou demais áreas externas do imóvel, quando não houver autorização prévia, expressa e formal do morador ou proprietário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A autorização prevista no artigo anterior deverá:\nI - ser formalizada por escrito ou por meio eletrônico que permita comprovação;\nII - indicar o local exato da instalação externa;\nIII - ser emitida antes de qualquer intervenção no imóvel;\nIV - ser arquivada pela concessionária e disponibilizada ao consumidor sempre que solicitado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Na ausência de autorização expressa do morador ou proprietário, a concessionária deverá realizar a instalação do hidrômetro no interior do imóvel, em ponto adequado, seguro e de fácil acesso para leitura e manutenção, sem ônus adicional ao consumidor.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Fica vedado às concessionárias:\nI - impor taxas, cobranças extras ou qualquer ônus financeiro decorrente da recusa de instalação externa;\nII - condicionar o fornecimento do serviço essencial de abastecimento de água à aceitação da instalação externa;\nIII - suspender, ameaçar suspender ou reduzir o fornecimento de água devido à negativa do consumidor;\nIV - realizar intervenções externas sem comunicação prévia mínima de 10 (dez) dias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As concessionárias deverão apresentar, sempre que solicitado pelo Município ou pelo consumidor:\nI - a autorização formal para a instalação externa;\nII - croqui técnico ou relatório indicando o local de instalação;\nIII - motivação técnica quando alegarem impossibilidade de instalação interna.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O descumprimento das disposições desta Lei sujeitará a concessionária infratora à aplicação de multa única no valor de 300 (trezentas) UFIRs, sem prejuízo de demais sanções previstas na legislação municipal pertinente.\nParágrafo único O valor arrecadado será destinado ao Fundo Municipal de Saneamento Básico ou órgão equivalente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 18 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.206, de 18 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02205",
+   "short": "Lei 2205/2026",
+   "title": "Lei nº 2.205, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5931",
+   "first_law": "armacao-dos-buzios-lei-2026-02205",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5931/lei_ordinaria_no_2.205_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "6e3ebf041214e5335be096c8c9878ebdf030a20ec1c549db751040948b9c3f1c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.205, de 18 de maio de 2026 Institui os Jogos Municipais dos Idosos e dá outras providências.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado à Instituir, no âmbito do Município de Armação dos Búzios, os Jogos Municipais dos Idosos (JOMI-BÚZIOS), com o objetivo de promover a integração, o bem-estar e a valorização da pessoa idosa por meio da prática esportiva, recreativa e cultural.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A realização dos jogos poderá ocorrer anualmente, preferencialmente no mês de outubro, em alusão ao Dia Internacional da Pessoa Idosa que ocorre em 1º de outubro.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A organização dos jogos ficará a cargo das secretárias que o poder Executivo designar, podendo ser celebradas parcerias com entidades da sociedade civil.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta Lei entra em vigor na data de sua publicação.\nArmação dos Búzios, 18 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.205, de 18 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00073",
+   "short": "LC 73/2026",
+   "title": "Lei Complementar nº 73, de 18 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/5947",
+   "first_law": "armacao-dos-buzios-lc-2026-00073",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/5947/lei_complementar_no_73_de_18_de_maio_de_2026_sapl.pdf",
+     "sha256": "e74f39c2e06d11c6e8beeb9291a694a7d096ea8719b0d9f1b8f8d9393b6e36f5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 73, de 18 de maio de 2026 Altera o(a) Lei Complementar nº 6, de 10 de setembro de 2002 Acrescenta dispositivos à Lei Complementar nº 6, de 10 de setembro de 2002 (Código de Posturas), para disciplinar o comércio ambulante nas praias do Município de Armação dos Búzios.\nO PRESIDENTE DA CÂMARA MUNICIPAL DE ARMAÇÃO DOS BÚZIOS, com fulcro nos artigos 41, IV e 61, §7º da Lei Orgânica Municipal comunico que a Câmara Municipal aprovou e eu promulgo a presente Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica suprimido o termo \"alimentos\" do Título III da Lei Complementar nº 6, de 10 de setembro de 2002, que passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Ficam acrescidos o Capítulo III e os arts. 47-A a 47-AF à Lei Complementar nº 6, de 10 de setembro de 2002, com a seguinte redação:\nI - Itinerante:\nII - Ponto móvel:\nIII - Ponto fixo:\nI - compatibilizar o uso econômico das praias com sua função ambiental e social;\nII - assegurar o livre e franco acesso às praias e ao mar, em qualquer direção e sentido;\nIII - promover a organização das atividades dos ambulantes de forma sustentável.\n"
+      },
+      "art-0047-d": {
+       "label": "Art. 47-D",
+       "kind": "article",
+       "text": "Art. 47-D. O comércio ambulante nas praias pode ser exercido nas seguintes modalidades:\n§ 1º O comércio ambulante itinerante é quando o ambulante exerce suas atividades portando junto ao corpo as mercadorias e equipamentos;\n§ 2º O comércio ambulante de ponto móvel é quando o ambulante exerce suas atividades utilizando-se de suportes, de equipamentos de apoio desmontáveis ou removíveis e de veículos de propulsão humana;\n§ 3º O comércio ambulante de ponto fixo é quando o ambulante exerce suas atividades em equipamentos não-removíveis.\nArt. 47-A. O comércio ambulante nas praias, compreende a venda de produtos ou a prestação de serviços realizados por pessoa física ou jurídica, de forma itinerante, móvel ou em ponto fixo, mediante permissão de uso do Poder Executivo Municipal, observadas as modalidades, condições e limites estabelecidos em sua regulamentação.\nArt. 47-B. O comércio ambulante nas praias deve observar práticas sustentáveis, como o uso de materiais biodegradáveis, a redução de plásticos e a destinação adequada de resíduos.\nArt. 47-C. O comércio ambulante nas praias tem como objetivo:\n"
+      },
+      "art-0047-e": {
+       "label": "Art. 47-E",
+       "kind": "article",
+       "text": "## Seção I Das modalidades e diretrizes\n## CAPÍTULO III DO COMÉRCIO AMBULANTE NAS PRAIAS\n## TÍTULO III DAS FEIRAS LIVRES E DO COMÉRCIO AMBULANTE\n## I - pessoal, intransferível e precária;\n## II - concedida a pessoa física ou jurídica;\n## III - vinculada a uma única praia e a um único tipo de atividade;\n## IV - passível de revogação a qualquer tempo, por motivo de interesse público ou descumprimento das normas legais e sanitárias.\n## I - auxiliar na atividade comercial;\n## II - representá-lo no momento da ação fiscal.\n## I - cônjuge;\n## II - companheiro pelo regime de união estável;\n## III - herdeiro legal.\n## § 4º É vedada a instalação de estruturas fixas, permanentes ou que impeçam a mobilidade e o livre acesso dos usuários à faixa de areia, à vegetação de restinga e às áreas de proteção ambiental.\nArt. 47-E. O comércio ambulante será exercido pelo permissionário, de forma assídua, observada a frequência mínima mensal definida em regulamento, sob pena de cassação da permissão.\n"
+      },
+      "art-0047-f": {
+       "label": "Art. 47-F",
+       "kind": "article",
+       "text": "Art. 47-F. A permissão para o exercício do comércio ambulante deve ser:\n§ 1º Para o exercício da atividade na modalidade itinerante ou móvel, a permissão será concedida exclusivamente a pessoa física, podendo o permissionário estar formalizado como Microempreendedor Individual - MEI.\n§ 2º Para a modalidade de ponto fixo, a permissão poderá ser concedida a pessoa jurídica enquadrada como Microempresa - ME ou Empresa de Pequeno Porte - EPP, devidamente inscrita no Cadastro Nacional da Pessoa Jurídica - CNPJ, observados os limites e condições estabelecidos pelo Poder Executivo.\n§ 3º É vedada a concessão de permissão a pessoa jurídica que não se enquadre como microempresa ou empresa de pequeno porte, bem como a formação de grupos econômicos que comprometam a isonomia e a livre concorrência entre os permissionários.\n"
+      },
+      "art-0047-g": {
+       "label": "Art. 47-G",
+       "kind": "article",
+       "text": "Art. 47-G. O titular da permissão pode indicar um representante para:\n"
+      },
+      "art-0047-h": {
+       "label": "Art. 47-H",
+       "kind": "article",
+       "text": "Art. 47-H. O representante poderá exercer atividade por até 30 (trinta) dias, em caso de impedimento do exercício da atividade pelo permissionário, devidamente justificado;\n§ 1º Ultrapassado o prazo previsto no caput, o permissionário estará sujeito à perda da permissão, observado o devido processo administrativo.\n§ 2º No caso de permissionário idoso, o prazo previsto no caput poderá ser prorrogado por igual período, mediante justificativa.\n"
+      },
+      "art-0047-i": {
+       "label": "Art. 47-I",
+       "kind": "article",
+       "text": "Art. 47-I. A vaga disponível deve ser preenchida, observando-se os critérios de transparência e publicidade, para fins de substituição imediata de vagas que venham a ser abertas, que deve ser regulamentado pelo Poder Executivo.\n"
+      },
+      "art-0047-j": {
+       "label": "Art. 47-J",
+       "kind": "article",
+       "text": "Art. 47-J. Em caso de cassação, renúncia ou perda da permissão por qualquer motivo, a vaga correspondente deve ser declarada disponível pelo órgão competente.\n"
+      },
+      "art-0047-k": {
+       "label": "Art. 47-K",
+       "kind": "article",
+       "text": "Art. 47-K. Em caso de moléstia grave ou falecimento do permissionário, o direito de exercício da atividade deve ser transferido ao:\n§ 1º A transferência somente deve ser autorizada mediante comprovação de dependência econômica familiar em relação à atividade.\n§ 2º O pedido de transferência deve observar o prazo e os procedimentos estabelecidos em regulamento, respeitada a razoabilidade e a continuidade da atividade, no prazo máximo de até 180 (cento e oitenta) dias.\n"
+      },
+      "art-0047-l": {
+       "label": "Art. 47-L",
+       "kind": "article",
+       "text": "Art. 47-L. A organização dos equipamentos utilizados no comércio ambulante das praias deve observar diretrizes que promovam segurança, acessibilidade, preservação ambiental e harmonia paisagística, cabendo ao Poder Executivo definir, em regulamento, os padrões técnicos específicos.\n"
+      },
+      "art-0047-m": {
+       "label": "Art. 47-M",
+       "kind": "article",
+       "text": "Art. 47-M. Para os fins do caput, deve ser considerada as seguintes padronizações:\n"
+      },
+      "art-0047-n": {
+       "label": "Art. 47-N",
+       "kind": "article",
+       "text": "## Seção II Da Vaga e da transferência\n## Seção III Dos equipamentos, da padronização e do funcionamento\n## a) a partir do 4º jogo até a quantidade máxima a ser definida pelo órgão competente, deverá ser disponibilizado somente após a solicitação pelo cliente;\n## I - dimensões da estrutura fixa ou removível compatíveis com a extensão de areia de cada praia, de forma a preservar a proporcionalidade e não comprometer a circulação de banhistas;\n## II - o distanciamento lateral de 2,5 m (dois metros e meio), à esquerda e à direita, do eixo central da estrutura fixa ou removível, para a instalação de guarda-sóis, mesas e cadeiras, conforme o disposto no inciso VI deste artigo.\n## III - a utilização de materiais leves, seguros e não poluentes;\n## IV - o padrão estético, de forma a preservar o estilo buziano e a harmonia visual das praias;\n## V - obrigatoriedade de recipientes para coleta de lixo, com saco plástico descartável;\n## VI - a disponibilização mínima de 3 (três) jogos compostos por 1 (um) guarda-sol, 1 (uma) mesa e 2 (duas) cadeiras, dispostos na área frontal da estrutura fixa ou removível;\n## VII - manutenção de uniforme padronizado, limpo e conservado, de uso obrigatório do titular e de seu representante, conforme modelo definido pelo Poder Executivo;\n## VIII - outros critérios que venham a ser fixados em regulamento.\n## I - Nas entradas de servidões, com distanciamento mínimo de 5,00 metros para a esquerda e para a direita e acesso livre e desimpedido até o mar;\n## II - Nas áreas de vegetação, restinga ou similar;\n## III - Nas escadas e rampas, respeitando a acessibilidade.\n## I - comprovar residência fixa ou existência de matriz ou filial no Município há, no mínimo, 5 (cinco) anos, cuja veracidade poderá ser verificada pelo órgão competente, por meio dos mecanismos e procedimentos previstos em regulamento;\n## II - possuir idade mínima de 18 (dezoito) anos;\n## III - apresentar cópia dos documentos pessoais (RG, CPF e comprovante de residência atualizado);\n## IV - apresentar certidão de nascimento ou documento equivalente dos filhos dependentes, quando houver;\n## V - não possuir outra permissão ativa para comércio ambulante em área pública do Município;\n## VI - apresentar certidão negativa de antecedentes criminais expedida há, no máximo, 90 (noventa) dias;\n## VII - quando houver filhos em idade escolar, comprovar matrícula e frequência regular na rede de ensino do Município;\n## VIII - apresentar cadastro atualizado no sistema municipal de saúde;\n## IX - apresentar título de eleitor com domicílio eleitoral no Município.\n## Parágrafo único No caso de o Poder Público adotar novo modelo de estrutura fixa ou removível, deve ser assegurado o uso, por até 2 (dois) anos, dos equipamentos previamente aprovados.\nArt. 47-N. Fica vedado a demarcação de pontos móveis ou fixos nas seguintes áreas:\n"
+      },
+      "art-0047-o": {
+       "label": "Art. 47-O",
+       "kind": "article",
+       "text": "Art. 47-O. Os horários de funcionamento e logística dos ambulantes devem ser ajustados por regulamento, conforme sazonalidade.\nParágrafo único Deve ser autorizado o funcionamento noturno em datas festivas, comemorativas ou de interesse público, mediante regulamento.\n"
+      },
+      "art-0047-p": {
+       "label": "Art. 47-P",
+       "kind": "article",
+       "text": "Art. 47-P. Para a concessão de licenças, o permitente deve observar, prioritariamente, sempre o livre e franco acesso às praias e ao mar, em qualquer direção e sentido, ressalvados os trechos considerados de interesse de segurança nacional ou incluídos em áreas protegidas por legislação específica.\n"
+      },
+      "art-0047-q": {
+       "label": "Art. 47-Q",
+       "kind": "article",
+       "text": "Art. 47-Q. A distribuição e o número máximo de autorizações por praia devem ser ajustados por regulamento, conforme sazonalidade, capacidade de carga e critérios ambientais.\n"
+      },
+      "art-0047-r": {
+       "label": "Art. 47-R",
+       "kind": "article",
+       "text": "Art. 47-R. A Para obter a permissão de comércio ambulante nas praias do Município de Armação dos Búzios, o interessado deverá atender aos seguintes requisitos:\nParágrafo único O descumprimento de qualquer um dos requisitos implicará o indeferimento ou a revogação da permissão.\n"
+      },
+      "art-0047-s": {
+       "label": "Art. 47-S",
+       "kind": "article",
+       "text": "Art. 47-S. A concessão de permissão dependerá de requerimento do interessado, dirigido ao órgão competente, para:\n"
+      },
+      "art-0047-t": {
+       "label": "Art. 47-T",
+       "kind": "article",
+       "text": "## Seção IV Da permissão e documentação\n## I - cadastramento, quando se tratar de solicitação inicial;\n## II - recadastramento;\n## I - nome da pessoa física ou jurídica;\n## II - a descrição do ponto ou trecho da praia autorizado;\n## III - a descrição da atividade de comércio ou prestação de serviços autorizada;\n## IV - o equipamento autorizado;\n## V - o nome do representante, se houver;\n## VI - número da inscrição municipal;\n## VII - número do processo de concessão;\n## I - o original da permissão ou Termo de Permissão de Uso de Bem Público vigente;\n## II - documento pessoal de identificação;\n## III - cupom fiscal ou documento de origem das mercadorias, exceto os produtos artesanais e de fabricação caseira.\n## I - refrigerantes e água mineral em lata ou garrafa plástica;\n## II - sucos, refrescos e mates industrializados, vedado o fracionamento;\n## III - cervejas em lata;\n## IV - biscoitos e salgadinhos industrializados;\n## V - sorvetes embalados;\n## VI - sanduíches prontos e embalados;\n## VII - frutas inteiras ou cortadas em porções embaladas;\n## VIII - amendoim, castanhas e similares embalados;\n## IX - bijuterias, bonés e protetores solares;\n## X - pequenos artigos de artesanato;\n## XI - toalhas, esteiras e vestuário de praia;\n## XII - brinquedos infláveis e pequenos acessórios de lazer;\n## XIII - mapas, adesivos e itens turísticos;\n## XIV - outros produtos que venham a ser regulamentados pelo Poder Executivo.\n## Parágrafo único A renovação da permissão deve ser efetivada, junto ao órgão competente, mediante simples atualização cadastral, sem necessidade de novo processo administrativo.\nArt. 47-T. A permissão para o exercício do comércio ambulante nas praias deve ter validade de 1 (um) ano, podendo ser renovada automaticamente, mediante requerimento do titular e comprovação de que permanecem atendidos os requisitos legais e sanitários.\n"
+      },
+      "art-0047-u": {
+       "label": "Art. 47-U",
+       "kind": "article",
+       "text": "Art. 47-U. O pedido da renovação deve ser protocolado até 30 (trinta) dias antes do vencimento da permissão.\nParágrafo único O não cumprimento do prazo implicará a perda da validade da permissão\n"
+      },
+      "art-0047-v": {
+       "label": "Art. 47-V",
+       "kind": "article",
+       "text": "Art. 47-V. O Poder Executivo poderá realizar vistorias ou solicitar atualização documental a qualquer tempo, para garantir o cumprimento das normas de segurança, higiene e posturas.\n"
+      },
+      "art-0047-w": {
+       "label": "Art. 47-W",
+       "kind": "article",
+       "text": "Art. 47-W. O documento de permissão deve conter, entre outras, as seguintes informações:\n"
+      },
+      "art-0047-x": {
+       "label": "Art. 47-X",
+       "kind": "article",
+       "text": "Art. 47-X. O ambulante autorizado deve portar:\n"
+      },
+      "art-0047-y": {
+       "label": "Art. 47-Y",
+       "kind": "article",
+       "text": "Art. 47-Y. O ambulante sem ponto fixo poderá comercializar, utilizando equipamentos e materiais leves, produtos compatíveis com a atividade desenvolvida na faixa de areia, observadas as normas sanitárias, ambientais e de segurança, conforme categorias e critérios a serem definidos em regulamento pelo Poder Executivo.\n§ 1º É proibido a comercialização e uso de embalagens de vidro nas praias.\n§ 2º Os comerciantes autorizados a atuar em ponto fixo que realizarem vendas na faixa de areia deverão observar as mesmas restrições e condições estabelecidas no caput deste artigo.\n"
+      },
+      "art-0047-z": {
+       "label": "Art. 47-Z",
+       "kind": "article",
+       "text": "Art. 47-Z. Será permitido o preparo, aquecimento ou cocção de alimentos no local, desde que realizados com o uso de carvão vegetal ou outro combustível seguro, em equipamento adequado, com autorização\nSeção V Da higiene e da ordem\nI - a utilização de amplificadores de som, megafones ou qualquer instrumento que produza ruído para oferta de produtos;\nII - a fixação de estruturas em áreas de vegetação, restinga ou servidões de acesso;\nIII - a abordagem de banhistas na faixa de areia, nos acessos à praia e em seus arredores, incluindo as vias públicas adjacentes;\nIV - a permanência, após o término do expediente diário, de barracas, estruturas ou equipamentos utilizados na atividade, sendo obrigatória a sua retirada ao final do dia;\nV - a cobrança de consumação mínima.\nI - afixar em local visível a tabela de preços dos produtos comercializados;\nII - manter uniformes padronizados, limpos e conservados, de uso obrigatório do permissionário e de seu representante;\nIII - manter a estrutura itinerante, móvel ou fixa identificada com letreiro padronizado contendo o número da permissão, podendo constar o nome do permissionário ou o nome fantasia, desde que não prejudique a identificação oficial.\nI - Advertência;\nII - Apreensão de equipamentos, materiais e mercadorias irregulares;\nIII - Multa;\nIV - Cassação da permissão, em casos de reincidência reiteradas, escalonadas de acordo com fluxograma da tabela no anexo I, sanitária e ambiental do órgão competente, respeitando-se as normas de segurança e higiene.\nArt. 47-AA. Os ambulantes são responsáveis pela limpeza e conservação da área utilizada, devendo recolher todo o lixo produzido no exercício da atividade, inclusive de terceiros.\nArt. 47-AB. O comerciante ambulante itinerante somente pode parar o tempo estritamente necessário para realizar a venda ou para a prestação de serviço profissional.\nArt. 47-AC. As operações de carga e descarga de mercadorias e equipamentos para o comércio ambulante somente devem ocorrer nos locais e horários determinados por regulamento.\nParágrafo único É vedada a permanência de veículos utilizados para transporte de mercadorias nas faixas de areia, passeios ou áreas de uso comum das praias.\nArt. 47-AD. É expressamente proibida:\nArt. 47-AE. O permissionário fica obrigado a:\n§ 1º Na modalidade móvel, o letreiro deverá conter, além do número da permissão, o número da servidão correspondente ao local autorizado.\n§ 2º É proibido utilizar área pública ou veículo estacionado como ponto de apoio ou depósito de mercadorias.\n§ 3º É proibida a delimitação, reserva ou cercamento de área fora dos limites autorizados.\n§ 4º É vedado o aluguel, cessão ou repasse a terceiros da permissão, sob pena de multa e cassação.\nArt. 47-AF. O descumprimento das normas desta Lei sujeitará o infrator às seguintes penalidades, aplicadas cumulativamente ou não, de acordo com as tabelas dos anexos I e II, obedecendo a ordem cronológica crescente, para o mesmo assunto/penalidade:\n§ 1º A aplicação das penalidades observará o princípio da razoabilidade e proporcionalidade.\n§ 2º Será assegurado ao permissionário o contraditório e a ampla defesa, nos termos da legislação vigente.\n§ 3º O permissionário poderá continuar as atividades profissionais que trata esta Lei, observando-se o cumprimento das exigências, num prazo mínimo de 24 horas para que seja sanada e observada pela autoridade fiscal, sem que haja suspensão de dias de trabalho.\n§ 4º A permissão para o exercício das atividades que trata esta Lei poderá ser cancelada no caso de reiteradas infrações após instauração de processo administrativo, de acordo com a anexo I, assegurando ao indiciado, ampla defesa em processo administrativo com o prazo máximo para finalização em até 30 dias corridos.\n§ 5º A autoridade que cancelar a autorização poderá reconsiderar o ato, restabelecendo-a, observadas as condições para autorização inicial.\nSeção VI Da responsabilidade e da sanção\nArt. 3º. O Poder Executivo definirá, por decreto, os períodos de cadastramento, recadastramento e renovação previstos nesta Lei Complementar.\nArt. 4º. Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nArmação dos Búzios, 18 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 73, de 18 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02201",
+   "short": "Lei 2201/2026",
+   "title": "Lei nº 2.201, de 11 de maio de 2026",
+   "url": "https://sapl.armacaodosbuzios.rj.leg.br/norma/6002",
+   "first_law": "armacao-dos-buzios-lei-2026-02201",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "source_url": "https://sapl.armacaodosbuzios.rj.leg.br/media/sapl/public/normajuridica/2026/6002/lei_ordinaria_no_2.201_de_11_de_maio_de_2026_sapl.pdf",
+     "sha256": "259e574755a1858aea143b576886fa30b7e198e53e9769f8626461c7543abf8f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 2.201, de 11 de maio de 2026 Dispõe sobre autorizar ao Poder Executivo Municipal a abrir Crédito Adicional Especial por Anulação ao Orçamento vigente, no valor de R$ 161.962,00 (cento e sessenta e um mil, novecentos e sessenta e dois reais) e dá outras providências.\nO PREFEITO DO MUNICÍPIO DE ARMAÇÃO DOS BÚZIOS Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado abrir Crédito Adicional Especial junto ao Orçamento Geral de 2026, em conformidade com o disposto no inciso II do art. 41 da Lei Federal nº 4.320, de 17 de março de 1964, no valor de R$ 161.962,00 (cento e sessenta e um mil, novecentos e sessenta e dois reais) na forma do Anexo I.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos, para atendimento ao artigo anterior, serão provenientes das anulações das dotações discriminadas no Anexo II, em conformidade com o inciso III do §1º do art. 43, da Lei Federal nº 4.320/64.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nArmação dos Búzios, 11 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 2.201, de 11 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ]
+}

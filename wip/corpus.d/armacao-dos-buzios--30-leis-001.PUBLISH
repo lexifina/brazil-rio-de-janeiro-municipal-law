@@ -1,0 +1,3 @@
+sha256:9d240ad354bde0da086e981c61d5dc30fae9a1ea80c5d11e5803fea1b4ebaef0
+reviewer: sapl state_repo 2026-11-06T16:21:45Z: assembled from brazil-armacao-dos-buzios-city-law\corpus.d\30-leis-001.json (signed: sha256:1d8a2f487f6563ad5bfd40b1fe42570195684a6e992fb27b3ae80f70b2fb3f69), law keys prefixed with the unit only; full build of the state corpus, check.py 0 mismatches 0 trailer errors (32 acts), audit_push []
+at: 2026-11-06T16:21:45Z

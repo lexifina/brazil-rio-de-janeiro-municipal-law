@@ -1,0 +1,81 @@
+{
+ "unit": "itaguai",
+ "laws": {
+  "itaguai-lei-2026-04347": {
+   "label": "Lei nº 4.347, de 13 de agosto de 2026",
+   "title": "INSTITUI O PROGRAMA DE INCENTIVO À INCLUSÃO SOCIAL DA PESSOA COM DEFICIÊNCIA ATRAVÉS DO ESPORTE NO ÂMBITO DO MUNICÍPIO DE ITAGUAÍ E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2026-08-13",
+   "published": "2026-08-27",
+   "url": "https://sapl.itaguai.rj.leg.br/norma/4477",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-04347",
+   "short": "Lei 4347/2026",
+   "title": "Lei nº 4.347, de 13 de agosto de 2026",
+   "url": "https://sapl.itaguai.rj.leg.br/norma/4477",
+   "first_law": "itaguai-lei-2026-04347",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "source_url": "https://sapl.itaguai.rj.leg.br/media/sapl/public/normajuridica/2026/4477/lei_no_4.347_2026.pdf",
+     "sha256": "e79fb91948f5e42e792887b1e4946bf6b3f2de3fce9d75edfc4080b4c7f2a9ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.347 DE 16 DE JUNHO DE 2026.\nINSTITUI O PROGRAMA DE INCENTIVO A INCLUSÃO SOCIAL DA PESSOA COM DEFICIÊNCIA ATRAVÉS DO ESPORTE NO ÂMBITO DO MUNICÍPIO DE ITAGUAÍ E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1°- Fica instituído o PROGRAMA DE INCENTIVO A INCLUSÃO SOCIAL DA PESSOA COM DEFICIÊNCIA ATRAVÉS DO ESPORTE NO ÂMBITO DO MUNICÍPIO DE ITAGUAÍ, com o objetivo de promover a inclusão social, o desenvolvimento físico e psicológico, e a melhoria da qualidade de vida das pessoas com deficiência por meio da prática esportiva.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - São objetivos do Programa de Incentivo ao Esporte para Pessoas com Deficiência:\n|- Principalmente a inclusão social das pessoas com deficiência através do acesso a atividade esportivas adaptadas;\nII - Fomentar a criação de equipes e a participação em competições esportivas locais, estaduais e nacionais, em diversas modalidades, com foco na incluso;\nIII - Oferecer condições para a prática esportiva acessível, mediante a adaptação dos espaços esportivos municipais, garantindo acessibilidades física e tecnológica;\nIV - Firmar parcerias com entidades públicas, privadas e organizações da sociedade civil, visando a promoção de eventos e competições esportivas inclusivas;\nV - Disponibilizar treinadores e profissionais capacitados para o acompanhamento dos atletas com deficiência, promovendo atividades inclusivas em modalidades esportivas como natação, atletismo, basquete em cadeira de rodas, bocha, entre outras;\nVI - Garantir transporte acessível para os atletas com deficiência em competições e treinos organizados pelo município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° - A execução do Programa será de responsabilidade da Secretaria Municipal de Esporte, que deverá regulamentar esta Lei no prazo de até 120 (cento e vinte) dias, estabelecendo os critérios para a participação e as modalidades de esporte abrangidas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° - O Poder Executivo poderá firmar convênios e parcerias com entidades públicas, privadas e organizações não governamentais, para a captação de esporte abrangidas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Fica autorizada a criação de centros de treinamento específicos para a prática esportiva adaptada, conforme disponibilidade orçamentária, priorizando áreas de fácil acesso para pessoas com deficiência.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6°",
+       "kind": "article",
+       "text": "Art. 6° - As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementares, se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Revoga-se as disposições em contrário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8°",
+       "kind": "article",
+       "text": "Art. 8°- Esta lei entra em vigor na data de sua publicação.\nCâmara Municipal de Itaguaí, 13 de agosto de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.347, de 13 de agosto de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ]
+}

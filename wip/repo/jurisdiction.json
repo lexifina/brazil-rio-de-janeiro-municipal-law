@@ -1,0 +1,13 @@
+{
+  "path": "br-rj-municipal",
+  "code": "BR-RJ-MUNICIPAL",
+  "name": "Rio de Janeiro (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-rj",
+  "repo": "https://github.com/lexifina/brazil-rio-de-janeiro-municipal-law",
+  "build": "built: the municipal law of Rio de Janeiro from the Câmaras Municipais' SAPL",
+  "units": [
+    "itaguai",
+    "armacao-dos-buzios"
+  ]
+}

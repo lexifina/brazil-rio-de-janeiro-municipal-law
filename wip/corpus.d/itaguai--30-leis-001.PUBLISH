@@ -1,0 +1,3 @@
+sha256:c33c758381c42b7ec5e1c845fc0be187df2563bdb1432510b7054bff0903eec7
+reviewer: sapl state_repo 2026-11-06T15:41:02Z: assembled from brazil-itaguai-city-law\corpus.d\30-leis-001.json (signed: sha256:c7be4c983615d2bbd966cc6a9e4441421119c99d955e161c71c80eeb22d515fc), law keys prefixed with the unit only; full build of the state corpus, check.py 0 mismatches 0 trailer errors (1 acts), audit_push []
+at: 2026-11-06T15:41:02Z
