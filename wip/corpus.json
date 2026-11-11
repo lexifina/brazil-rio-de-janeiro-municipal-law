@@ -32,6 +32,14 @@
    "code": "BR-RJ-ARMACAO-DOS-BUZIOS",
    "official_code": "3300233",
    "source": "sapl.armacaodosbuzios.rj.leg.br"
+  },
+  {
+   "id": "pirai",
+   "folder": "pirai",
+   "name": "Piraí",
+   "code": "BR-RJ-PIRAI",
+   "official_code": "3304003",
+   "source": "sapl.pirai.rj.leg.br"
   }
  ],
  "sources": [
@@ -48,6 +56,13 @@
    "retrieved": "2026-11-06",
    "licence": "Texts: Câmara Municipal de Armação dos Búzios, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.armacaodosbuzios.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
    "notes": "31 acts in this part."
+  },
+  {
+   "name": "Câmara Municipal de Piraí, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.pirai.rj.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de Piraí, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.pirai.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "8 acts in this part."
   }
  ],
  "laws": {},

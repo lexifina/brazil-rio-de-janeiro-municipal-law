@@ -1,0 +1,499 @@
+{
+ "unit": "pirai",
+ "laws": {
+  "pirai-lei-2026-01962": {
+   "label": "Lei nº 1.962, de 24 de setembro de 2026",
+   "title": "Acresce valor à subvenção concedida à Associação Recreativa Santa Cecília Arrozalense, para o exercício de 2026.",
+   "kind": "law",
+   "enacted": "2026-09-24",
+   "published": null,
+   "url": "https://sapl.pirai.rj.leg.br/norma/2638",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "pirai-lei-2026-01961": {
+   "label": "Lei nº 1.961, de 24 de setembro de 2026",
+   "title": "Autoriza o Poder Executivo a conceder auxilio financeiro à Associação Recreativa Santa Cecília Arrozalense.",
+   "kind": "law",
+   "enacted": "2026-09-24",
+   "published": null,
+   "url": "https://sapl.pirai.rj.leg.br/norma/2637",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "pirai-lei-2026-01953": {
+   "label": "Lei nº 1.953, de 10 de agosto de 2026",
+   "title": "Altera dispositivos da Lei Municipal nº 1.835 de 23 de junho de 2025, que dispõe sobre o Conselho Municipal de Segurança Alimentar e Nutricional de Piraí - COMSEA/Pirai e cria o Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP.",
+   "kind": "law",
+   "enacted": "2026-08-10",
+   "published": null,
+   "url": "https://sapl.pirai.rj.leg.br/norma/2615",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "pirai-lei-2026-01944": {
+   "label": "Lei nº 1.944, de 6 de julho de 2026",
+   "title": "Autoriza o Poder Executivo a conceder contribuição à Casa de Caridade de Piraí - Hospital Flávio Leal.",
+   "kind": "law",
+   "enacted": "2026-07-06",
+   "published": null,
+   "url": "https://sapl.pirai.rj.leg.br/norma/2611",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "pirai-lei-2026-01942": {
+   "label": "Lei nº 1.942, de 22 de junho de 2026",
+   "title": "Autoriza o Poder Executivo a conceder contribuição à Casa de Caridade de Piraí - Hospital Flávio Leal.",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": null,
+   "url": "https://sapl.pirai.rj.leg.br/norma/2609",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "pirai-lei-2026-01946": {
+   "label": "Lei nº 1.946, de 15 de junho de 2026",
+   "title": "Reconhece e registra como Patrimônio Cultural de Natureza Imaterial do Município de Piraí a tradição da confecção dos tapetes de Corpus Christi e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-06-15",
+   "published": null,
+   "url": "https://sapl.pirai.rj.leg.br/norma/2613",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "pirai-lei-2026-01945": {
+   "label": "Lei nº 1.945, de 15 de junho de 2026",
+   "title": "DISPÕE SOBRE AS NORMAS PARA A REALIZAÇÃO DE RODEIOS E PROVAS EQUESTRES NO ÂMBITO DO MUNICÍPIO DE PIRAÍ/RJ E DÁ OUTRAS PROVIDENCIAS.",
+   "kind": "law",
+   "enacted": "2026-06-15",
+   "published": null,
+   "url": "https://sapl.pirai.rj.leg.br/norma/2612",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "pirai-lei-2026-01943": {
+   "label": "Lei nº 1.943, de 11 de maio de 2026",
+   "title": "Estabelece o protocolo de Zeladoria e Manejo de Arborização sob Redes de Serviços Essenciais, institui o regime de atuação subsidiária do Município e dispões sobre prazos cooperativos, ressarcimento integral de custos e sanções substitutivas de investimento direto.",
+   "kind": "law",
+   "enacted": "2026-05-11",
+   "published": null,
+   "url": "https://sapl.pirai.rj.leg.br/norma/2610",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-01962",
+   "short": "Lei 1962/2026",
+   "title": "Lei nº 1.962, de 24 de setembro de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2638",
+   "first_law": "pirai-lei-2026-01962",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2638/lei_n__1.962.26__acresce_valor_a_subvencao_concedida_a_associacao_recreativa_santa_cecilia_arrozalense__para_o_exercicio_de_2026.pdf",
+     "sha256": "e2b6bb70d2332038f8fdf7e5979b68a9e49111df2f22700edaf9bb52ecd077af",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 1.962, de 15 de setembro de 2026.\n\"Acresce valor à subvenção concedida à Associação Recreativa Santa Cecília Arrozalense, para o exercício de 2026.\"\nA CÂMARA MUNICIPAL DE PIRAÍ aprova e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Artigo 1º",
+       "kind": "article",
+       "text": "Artigo 1º - Fica acrescido o valor de R$ 40.000,00 (quarenta mil reais), à subvenção concedida à Associação Recreativa Santa Cecília Arrozalense, no exercício de 2026.\n"
+      },
+      "art-0002": {
+       "label": "Artigo 2º",
+       "kind": "article",
+       "text": "Artigo 2º - As despesas decorrentes da execução desta Lei correrão por conta de dotação orçamentária própria, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Artigo 3º",
+       "kind": "article",
+       "text": "Artigo 3º - Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA MUNICIPAL DE PIRAÍ, em 16 de setembro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 1.962, de 24 de setembro de 2026; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01961",
+   "short": "Lei 1961/2026",
+   "title": "Lei nº 1.961, de 24 de setembro de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2637",
+   "first_law": "pirai-lei-2026-01961",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2637/lei_n__1.961.26__autoriza_o_poder_executivo_a_conceder_auxilio_financeiro_a_associacao_recreativa_santa_cecilia_arrozalense.pdf",
+     "sha256": "cff24f0a649de30818e7f41c3a12cce1b457ad3ed135e99425dbca539445a2e9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 1.961, de 15 de setembro de 2026.\n\"Autoriza o Poder Executivo a conceder auxílio financeiro à Associação Recreativa Santa Cecília Arrozalense.\"\nA CÂMARA MUNICIPAL DE PIRAÍ aprova e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Artigo 1º",
+       "kind": "article",
+       "text": "Artigo 1º - Fica autorizado auxílio financeiro a ser concedido, pelo Poder Executivo, à Associação Recreativa Santa Cecília Arrozalense, no valor de R$ 10.000,00 (dez mil reais), no exercício de 2026.\n"
+      },
+      "art-0002": {
+       "label": "Artigo 2º",
+       "kind": "article",
+       "text": "Artigo 2º - As despesas desta Lei correrão por conta de dotação orçamentária própria, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Artigo 3º",
+       "kind": "article",
+       "text": "Artigo 3º - Esta Lei entrará em vigor na data de sua publicação.\nPREFEITURA MUNICIPAL DE PIRAÍ, em 16 de setembro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 1.961, de 24 de setembro de 2026; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01953",
+   "short": "Lei 1953/2026",
+   "title": "Lei nº 1.953, de 10 de agosto de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2615",
+   "first_law": "pirai-lei-2026-01953",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2615/lei_n__1.953.26.pdf",
+     "sha256": "9ecd54bba0b715988eb90415bb73ef6fb339b737d0f686736320d52f64eaad30",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 1953, de 10 de agosto de 2026.\n\"Altera dispositivos da Lei Municipal nº 1.835, de 23 de junho de 2025, que dispõe sobre o Conselho Municipal de Segurança Alimentar e Nutricional de Piraí - COMSEA/Piraí e cria o Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP.\"\nA CÂMARA MUNICIPAL DE PIRAÍ aprova e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - A Seção II do Capítulo II da Lei Municipal nº 1.835, de 23 de junho de 2025, passa a vigorar com a seguinte redação:\n\"SEÇÃO II DA COMPETENCIA DO CONSELHO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL DE PIRAI.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O inciso III do art. 5º da Lei Municipal nº 1.835, de 23 de junho de 2025, passa a vigorar com a seguinte redação:\n\"III - Deliberar e apoiar a construção do Plano Municipal de Segurança Alimentar e Nutricional de Piraí; \"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Os incisos XIII, XIV, XV, XVI, XVII, XVIII, XIX e XX do art. 5º da Lei Municipal nº 1.835, de 23 de junho de 2025, passam a vigorar com a seguinte redação:\n\"XIII - Propor critérios e diretrizes para seleção de programas, projetos e ações relacionados a Política Municipal de Segurança Alimentar e Nutricional;\nXIV - Acompanhar e avaliar programas, projetos e ações relacionados a Política Municipal de Segurança Alimentar e Nutricional;\nXV - Deliberar sobre prioridades e diretrizes para aplicação dos recursos do Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP;\nXVI - Acompanhar e fiscalizar a aplicação dos recursos do Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP;\nXVII - Apreciar e emitir parecer sobre a prestação de contas do Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP;\nXVIII - Apoiar iniciativas de mobilização e ampliação da captação de recursos para o Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP;\nXIX - Propor critérios e prioridades para utilização dos recursos do Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP;\nXX - Acompanhar e apreciar os demonstrativos financeiros do Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP. \"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O § 2º do art. 18 da Lei Municipal nº 1.835, de 23 de junho de 2025, passa a vigorar com a seguinte redação:\n\"§ 2º - A aplicação das receitas do Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP observara as diretrizes e prioridades deliberadas pelo Conselho Municipal de Segurança Alimentar e Nutricional de Piraí - COMSEA/Piraí, respeitada a competência do Poder Executivo quanto a execução orçamentária, financeira e administrativa. \"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - A Seção III do art. 19 da Lei Municipal nº 1.835, de 23 de junho de 2025, passa a vigorar com a seguinte redação:\n\"SEÇÃO III CONSTITUEM RECEITAS DO FUNDO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL DE PIRAÍ - FMSANP\"\nI - Dotações orçamentárias próprias do Município e créditos adicionais que lhe forem destinados;\nII - Transferências de recursos da União, do Estado e de outros entes públicos;\nIII - Recursos provenientes de convênios, acordos, termos de cooperação, contratos, ajustes e instrumentos congêneres;\nIV - Doações, contribuições, auxílios, subvenções e legados de pessoas físicas ou jurídicas, públicas ou privadas;\nV - Rendimentos provenientes de aplicações financeiras de seus recursos;\nVI - Recursos oriundos de emendas parlamentares;\nVII - Receitas provenientes de campanhas, eventos e ações de captação de recursos legalmente autorizadas;\nVIII - Outras receitas legalmente destinadas ao Fundo. \"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - O art. 22 da Lei Municipal nº 1.835, de 23 de junho de 2025, passa a vigorar com a seguinte redação:\n\"Art. 22 - Caberá a Secretaria Municipal de Fazenda proceder a contabilidade e a elaboração dos demonstrativos fiscais, financeiros e legais decorrentes das receitas e despesas do Fundo Municipal de Segurança Alimentar e Nutricional de Piraí - FMSANP.\"\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Esta Lei entra em vigor na data de sua publicação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Revogam-se as disposições em contrário.\nPREFEITURA MUNICIPAL DE PIRAÍ, em 13 de agosto de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 1.953, de 10 de agosto de 2026; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01944",
+   "short": "Lei 1944/2026",
+   "title": "Lei nº 1.944, de 6 de julho de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2611",
+   "first_law": "pirai-lei-2026-01944",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2611/l1944.2026.pdf",
+     "sha256": "3353538c66b213309bb28991d9705daae841aae4208572b3449838fc5f108cf5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 1.944, de 06 de julho de 2026.\n\"Autoriza o Poder Executivo a conceder contribuição à Casa de Caridade de Piraí - Hospital Flávio Leal.\"\nA CÂMARA MUNICIPAL DE PIRAÍ aprova e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Poder Executivo autorizado a conceder à Casa de Caridade de Piraí - Hospital Flávio Leal, o valor de R$ 1.769.852,00 (hum milhão, setecentos e sessenta e nove mil, oitocentos e cinqüenta e dois reais), a título de contribuição, que deverá ser transferido de acordo como Plano de Trabalho específico, mediante a conformação dos repasses efetivados pelo Fundo Nacional de Saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Os recursos financeiros para cumprimento desta lei são oriundos da Portaria GM/MS nº 8.112, de 15 de setembro de 2025.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas desta Lei correrão à conta do orçamento vigente do Fundo Municipal de Saúde, que será suplementado, se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta Lei entrará em vigor na data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Revogam-se as disposições em contrário.\nPREFEITURA MUNICIPAL DE PIRAÍ, em 07 de julho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 1.944, de 6 de julho de 2026; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01942",
+   "short": "Lei 1942/2026",
+   "title": "Lei nº 1.942, de 22 de junho de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2609",
+   "first_law": "pirai-lei-2026-01942",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2609/l1942.2026.pdf",
+     "sha256": "1899da7895d4e11cdd40f13580c66ab321ec264f1d767bb1c2b82c84b1608dd4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 1.942, de 22 de junho de 2026.\n\"Autoriza o Poder Executivo a conceder contribuição à Casa de Caridade de Piraí - Hospital Flávio Leal.\"\nÀ Câmara Municipal de Piraí aprova e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Poder Executivo autorizado a conceder à Casa de Caridade de Piraí - Hospital Flávio Leal, o valor de R$ 3.696.717,62 (três milhões, seiscentos e noventa e seis mil, setecentos e dezessete reais e sessenta e dois centavos), a título de contribuição, que deverá ser transferido em parcelas, de acordo com os repassesefetivados pelo Fundo Estadual de Saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Os recursos financeiros para cumprimento desta lei são oriundos da Resolução SES-RJ nº 4.024, de 02 de junho de 2026.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas desta Lei correrão à conta do orçamento vigente do Fundo Municipal de Saúde, que será suplementado, se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta Lei entrará em vigor na data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Revogam-se as disposições em contrário.\nPREFEITURA MUNICIPAL DE PIRAÍ, em 24 de junho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 1.942, de 22 de junho de 2026; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01946",
+   "short": "Lei 1946/2026",
+   "title": "Lei nº 1.946, de 15 de junho de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2613",
+   "first_law": "pirai-lei-2026-01946",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2613/l1946.2026.pdf",
+     "sha256": "381db3f96dd03086318b202c32137712aa65ba09037c29e5db87437995490f97",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 1.946, de 15 de junho de 2026.\n\"Reconhece e registra como Patrimônio Cultural de Natureza Imaterial do Município de Piraí a tradição da confecção dos tapetes de Corpus Christi e dá outras providências.\"\nA CÂMARA MUNICIPAL DE PIRAÍ aprova e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º.Art. 1º. Fica reconhecida e registrada como Patrimônio Cultural de Natureza Imaterial do Município de Piraí a tradição comunitária, artística, cultural e artesanal de confecção dos tapetes de Corpus Christi, realizada anualmente por ocasião das celebrações religiosas da data, com participação de moradores, artistas locais, comunidades religiosas e demais integrantes da sociedade civil.\nParágrafo Único. O reconhecimento de que trata esta Lei compreende os saberes, práticas, técnicas, expressões artísticas e formas de organização comunitária relacionadas à elaboração dos tapetes tradicionais de Corpus Christi, como manifestação de relevante valor cultural, religioso, turístico e histórico para o Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Constituem diretrizes para a preservação, valorização e promoção da manifestação cultural reconhecida nesta Lei:\nI - incentivo à participação da comunidade na organização e realização da festividade;\nII - divulgação institucional e turística da celebração e da tradição da confecção dos tapetes;\nIII - promoção de ações de educação patrimonial, cultural e artística relacionadas à tradição reconhecida nesta Lei;\nIV - estímulo à participação das unidades escolares, entidades culturais, organizações religiosas e demais instituições da sociedade civil nas atividades relacionadas à festividade;\nV - realização de registro documental, fotográfico, audiovisual e histórico da manifestação cultural, com vistas à preservação de sua memória e identidade;\nVI - apoio institucional, logístico e operacional à realização da festividade e à confecção dos tapetes, observadas as disponibilidades administrativas, técnicas, orçamentárias e financeiras do Município;\nVII - adoção, pelos órgãos municipais competentes, das medidas necessárias à organização, limpeza, sinalização, ordenamento e segurança das áreas públicas destinadas à realização do evento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo poderá promover o inventário, cadastro, registro administrativo ou outras medidas de salvaguarda da manifestação cultural reconhecida nesta Lei, observada a legislação aplicável.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O reconhecimento previsto nesta Lei não impede o registro ou a proteção de outras manifestações culturais, religiosas ou tradicionais relacionadas às celebrações de Corpus Christi no Município.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA MUNICIPAL DE PIRAÍ, em 07 de julho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 1.946, de 15 de junho de 2026; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01945",
+   "short": "Lei 1945/2026",
+   "title": "Lei nº 1.945, de 15 de junho de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2612",
+   "first_law": "pirai-lei-2026-01945",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2612/l1945.2026.pdf",
+     "sha256": "4062eb71ca4e87129e07239ada2bcba2a9beaee841c60fc44233ea7ba9977047",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 1.945, de 15 de junho de 2026.\n\"DISPÕE SOBRE AS NORMAS PARA A REALIZAÇÃO DE RODEIOS E PROVAS EQUESTRES NO ÂMBITO DO MUNICÍPIO DE PIRAÍ/RJ E DÁ OUTRAS PROVIDENCIAS.\"\nA CÂMARA MUNICIPAL DE PIRAÍ aprova e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica permitida, no âmbito do Município de Piraí/RJ, a realização de eventos denominados rodeios de animais e provas equestres, obedecidas as normas gerais estabelecidas nesta Lei e nas legislações federal e estadual pertinentes, especialmente aquelas voltadas à proteção e ao bem-estar animal.\n§ 1º Consideram-se rodeios e provas equestres as atividades esportivas ou culturais nasquais se avalia a habilidade do atleta e o desempenho do animal, compreendendo:\nI - Montarias em touros e cavalos;\nIl - Provas cronometradas e de laço;\nIII - Provas de marcha e hipismo;\nIV - Cavalgadas e exibições equestres.\n§ 2º Ficam igualmente autorizadas, sob as condições desta Lei, a exposição, comercialização e leilão de bovinos, equinos e caprinos, observadas as normas de defesa sanitária animal e de bem-estar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º É expressamente vedada a realização de vaquejadas, faras do boi e de quaisquer outras práticas que envolvam maus-tratos ou crueldade contra animais, nos termos do art. 225,\n§ 1°, VII, da Constituição Federal e da Lei Federal n° 9.605/1998 (Lei de Crimes Ambientais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para o ingresso dos animais nos locais de realização dos eventos de que trata estaLei, serão exigidos:\nI - Atestados de vacinação e sanidade emitidos por médico-veterinário habilitado, conforme o tipo de animal;\nII - Certificados de inspeção sanitária e controle de anemia infecciosa equina (AIE) paraequídeos;\nIII - Atestados de vacinação contra febre aftosa e brucelose, no caso de bovinos e bubalinos.\n§1º Não poderão participar dos eventos animais com doença, ferimento, deficiência físicaou fêmeas prenhas.\n§ 2° Haverá médico-veterinário responsável técnico, incumbido de avaliar os animais,fiscalizar documentos e comunicar às autoridades competentes quaisquer irregularidades.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° Compete à entidade promotora do evento, às suas expensas, assegurar:\nI -Transporte adequado dos animais, em veículos próprios e sem superlotação;\nII - Descanso mínimo de 6 (seis) horas antes do início das provas;\nIII - Instalações adequadas para embarque, desembarque e manejo dos animais;\nIV - Estrutura de saúde com ambulância de plantão, equipe de primeiros socorros e médico clínico presente;\nV - Presença de médico-veterinário durante todo o evento;\nVI - Arena e bretes com altura mínima de 2 (dois) metros e piso de areia ou materialamortecedor;\nVII - Alimentação e água potável aos animais durante toda a permanência;\nVIII - Remoção imediata dos animais após as provas, sendo vedada a permanênciaprolongada em currais;\nIX - Vedação ao uso de ferrões, condutores elétricos, bastões, madeiras, borracha ouquaisquer instrumentos lesivos;\nX - Iluminação adequada nos locais de circulação e repouso dos animais;\nXI - Presença mínima de dois laçadores de pista nas montarias em touros e doismadrinheiros nas montarias em cavalos.\nParágrafo único. É proibida a utilização de animais com menos de 12 (doze) meses deidade ou fêmeas prenhas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5°",
+       "kind": "article",
+       "text": "Art. 5° Os apetrechos utilizados nas montarias deverão estar em conformidade com asnormas técnicas e não poderão causar ferimentos aos animais.\n§ 1° Será permitido apenas o uso de sedém de lã natural, sendo proibidos outros materiais.\n§ 2º As esporas deverão ser fornecidas pela entidade promotora, sob supervisão domédico-veterinário, sendo vedadas as com rosetas pontiagudas ou instrumentos semelhantes.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A entidade promotora deverá comunicar a realização do evento à PrefeituraMunicipal de Piraí/RJ, com antecedência mínima de 30 (trinta) dias, instruindo o requerimento com:\nI - Dados e qualificação da entidade promotora:\nIl - Identificação do responsável técnico veterinário;\nIII - Comprovação de regularidade fiscal;\nIV - Seguro contra acidentes pessoais e danos a terceiros;\nV - Prova de cumprimento da legislação estadual e federal aplicável.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Deverá ainda ser comprovado o cumprimento das disposições das Leis Federais n°10.220/2001, 10.519/2002 e 13.873/2019, notadamente quanto:\nII - À contratação formal dos peões e competidores;\nII - À contratação de seguro de vida e acidentes pessoais em favor dos peões, laçadores, salva-vidas, madrinheiros, juízes, locutores e demais trabalhadores da arena;\nIII - à atualização anual dos valores segurados conforme índices oficiais.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8°",
+       "kind": "article",
+       "text": "Art. 8° O descumprimento das disposições desta Lei sujeitará o infrator a multa de até 20 (vinte) Unidades Fiscais de Referência do Município de Piraí, sem prejuízo das demais penalidades administrativas, civis e penais previstas na legislação em vigor.\nParágrafo único - A fiscalização e aplicação das sanções caberão ao órgão municipal designado pelo Poder Executivo, preferencialmente à Secretaria Municipal de Agricultura, Pecuária e Meio Ambiente, ou equivalente.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9°",
+       "kind": "article",
+       "text": "Art. 9° O Poder Executivo poderá esta Lei no prazo de 60 (sessenta) dias, estabelecendoos procedimentos administrativos e fiscais necessários à sua execução.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições emcontrário.\nPREFEITURA MUNICIPAL DE PIRAÍ, em 07 de julho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 1.945, de 15 de junho de 2026; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01943",
+   "short": "Lei 1943/2026",
+   "title": "Lei nº 1.943, de 11 de maio de 2026",
+   "url": "https://sapl.pirai.rj.leg.br/norma/2610",
+   "first_law": "pirai-lei-2026-01943",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "source_url": "https://sapl.pirai.rj.leg.br/media/sapl/public/normajuridica/2026/2610/l1943.2026.pdf",
+     "sha256": "31e6db71223d328ae4b0246a5b98e62d6fb78aaa4746f4a676272ca0a906591a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 1.943, de 11 de maio de 2026.\n\"Estabelece o Protocolo de Zeladoria e Manejo de Arborização sob Redes de Serviços Essenciais, institui o regime de atuação subsidiária do Município e dispõe sobre prazos cooperativos, ressarcimento integral de custos e sanções substitutivas de investimento direto.\"\nÀ Câmara Municipal de Piraí aprova e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## Capítulo I - Da Atuação Subsidiária E Dos Prazos Cooperativos\nArt. 1º. As concessionárias de serviços públicos essenciais em Piraí são responsáveis pela manutenção e poda preventiva da vegetação em conflito com suas redes, visando à continuidade do serviço e a segurança pública.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A Administração Municipal, ao identificar risco ou conflito, notificará a concessionária para o manejo da vegetação, observando os seguintes Prazos Cooperativos de Referência:\nI - Emergencial (48 horas): Para casos de risco iminente de queda sobre a via pública ou interrupção de serviços em unidades de saúde e segurança;\nII - Convencional (até 10 dias úteis): Para manejos de rotina em áreas urbanas de fácil acesso;\nIII - Complexo (Prazo Pactuado): Para intervenções que exijam desligamento programado da rede, acesso a áreas rurais de difícil topografia ou licenciamento ambiental específico.\n§ 1º. Os prazos referidos possuem natureza autorizativa para atuação subsidiária, servindo como marco para o reconhecimento da omissão da empresa.\n§ 2º. A complexidade do serviço será definida em comum acordo entre a fiscalização municipal e o corpo técnico da concessionária no ato da notificação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## Capítulo II - Do Ressarcimento Integral E Imediato\nArt. 3º. Transcorrido o prazo aplicável sem a devida intervenção ou justificativa técnica aceitável, a Administração Municipal fica autorizada a realizar o manejo diretamente ou por meio de terceiros, cabendo à concessionária o ressarcimento integral dos custos envolvidos na operação.\n§ 1º - O cálculo do ressarcimento compreenderá todos os custos operacionais diretos e indiretos, incluindo horas-trabalho, desgaste de maquinário, combustível e logística de resíduos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## Capítulo III - Das Sanções Substitutivas De Investimento Direto\nArt. 4º. A definição do investimento será estabelecida pelo Poder Executivo, observando-se como critérios de proporcionalidade e parametrização:\nI - A gravidade do risco gerado à população pela inércia no manejo da árvore ou vegetação;\nII - O impacto social da interrupção do serviço causada pela falta de manutenção preventiva;\nIII - O histórico de reincidência da concessionária em ignorar os prazos cooperativos de referência;\nIV - A capacidade econômica da concessionária e o vulto do descumprimento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Capítulo IV - Das Disposições Finais\nArt. 5º. Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA MUNICIPAL DE PIRAÍ, em 25 de junho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 1.943, de 11 de maio de 2026; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  }
+ ]
+}
